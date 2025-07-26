@@ -16,8 +16,7 @@ I’m deeply enthusiastic about data science and how efficiently managing and in
 - 🌱 **Currently Learning**: Machine Learning, Python, Power BI, Tableau, Artificial Intelligence  
 - 🤝 **Looking to Collaborate On**: Open-source analytics projects, internships, and freelance data roles  
 - 💼 **Job Interests**: Data Analyst / BI Analyst (Entry-Level or Intermediate); Salesforce Admin/Analyst (Intern or Junior)
-
-📫 **Contact Me**:  
+ 
 📫 **Contact Me**:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mdtanvirahmeddev/)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square)](mailto:md.ahmedtanvirdev@gmail.com)  
