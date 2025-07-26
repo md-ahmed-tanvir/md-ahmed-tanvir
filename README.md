@@ -18,9 +18,11 @@ I’m deeply enthusiastic about data science and how efficiently managing and in
 - 💼 **Job Interests**: Data Analyst / BI Analyst (Entry-Level or Intermediate); Salesforce Admin/Analyst (Intern or Junior)
 
 📫 **Contact Me**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/md-ahmed-tanvir)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square)](mailto:your.email@example.com)  
+📫 **Contact Me**:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mdtanvirahmeddev/)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square)](mailto:md.ahmedtanvirdev@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/md-ahmed-tanvir)  
+
 
 ---
 
