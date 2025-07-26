@@ -21,7 +21,7 @@ I’m deeply enthusiastic about data science and how efficiently managing and in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mdtanvirahmeddev/)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square)](mailto:md.ahmedtanvirdev@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/md-ahmed-tanvir)  
-
+[![📄 Resume](https://img.shields.io/badge/Resume-PDF-red?style=flat-square&logo=adobeacrobatreader)](https://drive.google.com/file/d/1QQ-cCaqmZIHja_9nmux4JCpl6sQIuyMP/view?usp=drive_link)
 
 ---
 
