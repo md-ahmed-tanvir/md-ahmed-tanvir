@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-## 👋 I’m Tanvir
+## 👋 I’m Md.Tanvir Ahmed
 
 I'm a data analyst with a strong mathematical background and a passion for solving problems using data. I enjoy asking questions, exploring patterns, and using analytical techniques to draw insights that drive meaningful decision-making.
 
