@@ -60,26 +60,30 @@ Salesforce Admin / Analyst (Intern or Junior)
 
 ## 📌 Pinned Projects
 
+[**Data Analyst Portfolio Projects**](https://github.com/md-ahmed-tanvir/DataAnalystPortfolioProjects)  
+📊 A curated collection of real-world data analytics projects using SQL, Python, Excel, Tableau, and Hadoop Hive. Includes EDA, dashboards, data cleaning, and business use cases.
+
 [**Google Play Store App Analysis & Visualization**](https://github.com/md-ahmed-tanvir/google-play-analysis)  
-📊 Analyzed Google Play Store apps (2010–2018) using Python & visualized with Tableau.
+📊 Analyzed Google Play Store apps (2010–2018) using Python and visualized findings with Tableau.
 
 [**Doctor Deficit Projection – Germany**](https://github.com/md-ahmed-tanvir/doctor-deficit-projection)  
-📉 Forecasted shortage of doctors in Germany from 2024 to 2044 using demographic modeling.
+📉 Forecasted shortage of doctors in Germany (2024–2044) using demographic and retirement modeling in Python.
 
 [**SQL Portfolio Project**](https://github.com/md-ahmed-tanvir/sql-portfolio-project)  
-📑 Performed SQL analysis on 37K+ student records; visualized with Power BI dashboards.
+📑 Performed SQL analysis on 37K+ student records and created interactive Power BI dashboards for insights.
 
 [**Election Data Outlier Detection (2023)**](https://github.com/md-ahmed-tanvir/election-outlier-analysis)  
-🗳️ Identified potential anomalies in 2023 Nigerian election data.
+🗳️ Identified statistical anomalies and potential irregularities in 2023 Nigerian election results using Python.
 
 [**Tesla & GameStop Stock Analysis**](https://github.com/md-ahmed-tanvir/Tesla-GameStop-Stock-Analysis)  
-📊 Conducted stock and revenue analysis using yFinance and web scraping; built interactive dashboards.
+📈 Analyzed stock trends and revenue using `yFinance`, `BeautifulSoup`, and built interactive dashboards.
 
 [**Car Sales Performance Dashboard**](https://github.com/md-ahmed-tanvir/Car-Sales-Performance-Dashboard)  
-🚗 Created an Excel dashboard summarizing sales and profit analysis by dealer and model with interactive charts.
+🚗 Created a dynamic Excel dashboard with slicers and charts summarizing sales by dealer, model, and region.
 
 [**Little Lemon API Project**](https://github.com/md-ahmed-tanvir/Little-Lemon-API-project)  
-🍋 Developed a RESTful API for restaurant management using Django REST Framework with authentication and testing.
+🍋 Built a RESTful API for restaurant operations using Django REST Framework with authentication and testing.
+
 
 ---
 
