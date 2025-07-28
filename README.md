@@ -64,35 +64,14 @@ I’m deeply enthusiastic about data science and how efficiently managing and in
 [**Election Data Outlier Detection (2023)**](https://github.com/md-ahmed-tanvir/election-outlier-analysis)  
 🗳️ Identified potential anomalies in 2023 Nigerian election data.
 
-[**Job Market Trends API Visualization**](https://github.com/md-ahmed-tanvir/Job-Market-Trends-API-Visualization)  
-🔍 Analyzed job market data using public APIs; performed data cleaning and visualized career insights with Python.
-
-[**Automobile Sales Trend Analysis**](https://github.com/md-ahmed-tanvir/Automobile-Sales-Trend-Analysis)  
-📈 Visualized automobile sales fluctuations during recession and non-recession periods using Python line plots.
+[**Tesla & GameStop Stock Analysis**](https://github.com/md-ahmed-tanvir/Tesla-GameStop-Stock-Analysis)  
+📊 Conducted stock and revenue analysis using yFinance and web scraping; built interactive dashboards.
 
 [**Car Sales Performance Dashboard**](https://github.com/md-ahmed-tanvir/Car-Sales-Performance-Dashboard)  
 🚗 Created an Excel dashboard summarizing sales and profit analysis by dealer and model with interactive charts.
 
-[**Tesla & GameStop Stock Analysis**](https://github.com/md-ahmed-tanvir/Tesla-GameStop-Stock-Analysis)  
-📊 Conducted stock and revenue analysis using yFinance and web scraping; built interactive dashboards.
-
 [**Little Lemon API Project**](https://github.com/md-ahmed-tanvir/Little-Lemon-API-project)  
 🍋 Developed a RESTful API for restaurant management using Django REST Framework with authentication and testing.
-
-[**freeCodeCamp Machine Learning with Python Projects**](https://github.com/md-ahmed-tanvir/freeCodeCamp-Machine-Learning-with-Python-Projects)  
-🤖 Completed machine learning projects from freeCodeCamp using Python and scikit-learn.
-
-[**Globally01**](https://github.com/md-ahmed-tanvir/globally01)  
-🌍 [Add description here]
-
-[**FreeCodeCamp Data Analysis with Python**](https://github.com/md-ahmed-tanvir/FreeCodeCamp_Data_Analysis_with_Python)  
-🐍 Solutions to data analysis challenges using Python libraries like Pandas, NumPy, and Matplotlib.
-
-[**Zomato Data Analysis and Customer Insights**](https://github.com/md-ahmed-tanvir/Zomato-Data-Analysis-and-Customer-Insights)  
-🍽️ Analyzed restaurant data to derive customer behavior insights using Python and visualization tools.
-
-[**Power BI Data Visualization Projects**](https://github.com/md-ahmed-tanvir/Power-BI-Data-Visualization-Projects)  
-📊 Built multiple Power BI dashboards to visualize business metrics and KPIs effectively.
 
 ---
 
@@ -100,6 +79,7 @@ I’m deeply enthusiastic about data science and how efficiently managing and in
 
 ![Tanvir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&theme=gruvbox)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=gruvbox)
+
 
 
 ---
