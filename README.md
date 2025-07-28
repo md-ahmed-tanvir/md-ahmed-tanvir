@@ -11,11 +11,19 @@ I’m deeply enthusiastic about data science and how efficiently managing and in
 ### 🔍 Here's a quick summary about me:
 
 - 😊 **Pronouns**: He/him  
-- 💡 **Fun Fact**: I’ve completed several certifications from IBM, Cisco, and Forage. I’m also pursuing the PL-300 Power BI certification.  
-- 🎯 **Interests**: Data Science, Machine Learning, Power BI, Tableau, Salesforce  
-- 🌱 **Currently Learning**: Machine Learning, Python, Power BI, Tableau, Artificial Intelligence  
-- 🤝 **Looking to Collaborate On**: Open-source analytics projects, internships, and freelance data roles  
-- 💼 **Job Interests**: Data Analyst / BI Analyst (Entry-Level or Intermediate); Salesforce Admin/Analyst (Intern or Junior)
+- 💡 Fun Fact: I’ve earned over 30 certifications in data analytics, data science, and machine learning — basically, my laptop deserves a degree too! 😄 From IBM to Google, I’ve explored data from every angle, and I’m just getting started with Power BI mastery! 📊🚀 😄 I believe learning never stops, especially when there’s data to explore and insights to uncover. 🚀
+🎯 Interests:
+Data Science · Machine Learning · Power BI · Tableau · Salesforce
+
+🌱 Currently Learning:
+Machine Learning · Python · Power BI · Tableau · Artificial Intelligence
+
+🤝 Looking to Collaborate On:
+Open-source analytics projects · Internships · Freelance data roles
+
+💼 Job Interests:
+Data Analyst / BI Analyst (Entry-Level or Intermediate)
+Salesforce Admin / Analyst (Intern or Junior)
  
 📫 **Contact Me**:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mdtanvirahmeddev/)  
