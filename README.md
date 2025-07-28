@@ -12,16 +12,16 @@ I’m deeply enthusiastic about data science and how efficiently managing and in
 
 - 😊 **Pronouns**: He/him  
 - 💡 Fun Fact: I’ve earned over 30 certifications in data analytics, data science, and machine learning — basically, my laptop deserves a degree too! 😄 From IBM to Google, I’ve explored data from every angle, and I’m just getting started with Power BI mastery! 📊🚀 😄 I believe learning never stops, especially when there’s data to explore and insights to uncover. 🚀
-🎯 Interests:
+- 🎯 Interests:
 Data Science · Machine Learning · Power BI · Tableau · Salesforce
 
-🌱 Currently Learning:
+- 🌱 Currently Learning:
 Machine Learning · Python · Power BI · Tableau · Artificial Intelligence
 
-🤝 Looking to Collaborate On:
+- 🤝 Looking to Collaborate On:
 Open-source analytics projects · Internships · Freelance data roles
 
-💼 Job Interests:
+- 💼 Job Interests:
 Data Analyst / BI Analyst (Entry-Level or Intermediate)
 Salesforce Admin / Analyst (Intern or Junior)
  
