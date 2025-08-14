@@ -26,7 +26,7 @@ Data Analyst / BI Analyst (Entry-Level or Intermediate)
 Salesforce Admin / Analyst (Intern or Junior)
  
 📫 **Contact Me**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mdtanvirahmeddev/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/md-tanvir-ahmed-dev/)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square)](mailto:md.ahmedtanvirdev@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/md-ahmed-tanvir)  
 [![📄 Resume](https://img.shields.io/badge/Resume-PDF-red?style=flat-square&logo=adobeacrobatreader)](https://drive.google.com/file/d/1QQ-cCaqmZIHja_9nmux4JCpl6sQIuyMP/view?usp=drive_link)
