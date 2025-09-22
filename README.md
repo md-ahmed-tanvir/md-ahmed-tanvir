@@ -1,101 +1,129 @@
-# Hello there; welcome 👋🏾
+<p align="center">
+  <img src="https://github.com/md-ahmed-tanvir/md-ahmed-tanvir/blob/main/cover.png?raw=true" width="100%" alt="Cover Banner"/>
+</p>
 
-## 👋 I’m Md.Tanvir Ahmed
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
+  Hey, I'm <span style="color:#6C63FF; text-shadow: 0 0 15px #6C63FF;">Md. Tanvir Ahmed</span>
+</h1>
 
-I'm a data analyst with a strong mathematical background and a passion for solving problems using data. I enjoy asking questions, exploring patterns, and using analytical techniques to draw insights that drive meaningful decision-making.
+<h3 align="center" style="color:#9CA3AF; font-weight:400;">
+  🎓 Aspiring Data Analyst | BI Enthusiast | Mathematics Student  
+</h3>
 
-I’m deeply enthusiastic about data science and how efficiently managing and interpreting data can improve everyday decisions. Though I initially explored software development, I’ve found my niche in analytics and business intelligence. I'm continuously sharpening my data analysis skills, expanding into machine learning, and exploring AI integration in analytics workflows.
-
----
-
-### 🔍 Here's a quick summary about me:
-
-- 😊 **Pronouns**: He/him  
-- 💡 Fun Fact: I’ve earned over 40+ certifications in data analytics, data science, and machine learning — basically, my laptop deserves a degree too! 😄 From IBM to Google, I’ve explored data from every angle, and I’m just getting started with Power BI mastery! 📊🚀 😄 I believe learning never stops, especially when there’s data to explore and insights to uncover. 🚀
-- 🎯 Interests:
-Data Science · Machine Learning · Power BI · Tableau · Salesforce
-
-- 🌱 Currently Learning:
-Machine Learning · Python · Power BI · Tableau · Artificial Intelligence
-
-- 🤝 Looking to Collaborate On:
-Open-source analytics projects · Internships · Freelance data roles
-
-- 💼 Job Interests:
-Data Analyst / BI Analyst (Entry-Level or Intermediate)
-Salesforce Admin / Analyst (Intern or Junior)
- 
-📫 **Contact Me**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/md-tanvir-ahmed-dev/)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square)](mailto:md.ahmedtanvirdev@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/md-ahmed-tanvir)  
-[![📄 Resume](https://img.shields.io/badge/Resume-PDF-red?style=flat-square&logo=adobeacrobatreader)](https://drive.google.com/file/d/1QQ-cCaqmZIHja_9nmux4JCpl6sQIuyMP/view?usp=drive_link)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Transforming+Data+into+Actionable+Insights" alt="Typing Animation"/>
+</div>
 
 ---
 
-## 🛠️ Tools and Languages
+## 👨‍💻 About Me  
 
-### 📊 Data Analysis
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown)
-
-### 🛢️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-
-### 💻 Backend Development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
+🔹 Strong foundation in **Mathematics + Data Analytics**  
+🔹 Skilled in **Python, SQL, Power BI, Tableau, Excel**  
+🔹 Experience: **Data Analysis Projects, BI Dashboards, Business Insights**  
+🔹 Fun fact: I’ve earned **40+ certifications** from IBM, Google, Microsoft, Oracle & more 🎖️  
 
 ---
 
-## 📌 Pinned Projects
+## 🌍 Connect with Me  
 
-[**Data Analyst Portfolio Projects**](https://github.com/md-ahmed-tanvir/DataAnalystPortfolioProjects)  
-📊 A curated collection of real-world data analytics projects using SQL, Python, Excel, Tableau, and Hadoop Hive. Includes EDA, dashboards, data cleaning, and business use cases.
-
-[**Google Play Store App Analysis & Visualization**](https://github.com/md-ahmed-tanvir/google-play-analysis)  
-📊 Analyzed Google Play Store apps (2010–2018) using Python and visualized findings with Tableau.
-
-[**Doctor Deficit Projection – Germany**](https://github.com/md-ahmed-tanvir/doctor-deficit-projection)  
-📉 Forecasted shortage of doctors in Germany (2024–2044) using demographic and retirement modeling in Python.
-
-[**SQL Portfolio Project**](https://github.com/md-ahmed-tanvir/sql-portfolio-project)  
-📑 Performed SQL analysis on 37K+ student records and created interactive Power BI dashboards for insights.
-
-[**Election Data Outlier Detection (2023)**](https://github.com/md-ahmed-tanvir/election-outlier-analysis)  
-🗳️ Identified statistical anomalies and potential irregularities in 2023 Nigerian election results using Python.
-
-[**Tesla & GameStop Stock Analysis**](https://github.com/md-ahmed-tanvir/Tesla-GameStop-Stock-Analysis)  
-📈 Analyzed stock trends and revenue using `yFinance`, `BeautifulSoup`, and built interactive dashboards.
-
-[**Car Sales Performance Dashboard**](https://github.com/md-ahmed-tanvir/Car-Sales-Performance-Dashboard)  
-🚗 Created a dynamic Excel dashboard with slicers and charts summarizing sales by dealer, model, and region.
-
-[**Little Lemon API Project**](https://github.com/md-ahmed-tanvir/Little-Lemon-API-project)  
-🍋 Built a RESTful API for restaurant operations using Django REST Framework with authentication and testing.
-
+<p align="center">
+  <a href="mailto:md.ahmedtanvirdev@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
+  <a href="https://www.linkedin.com/in/md-tanvir-ahmed-dev/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+  <a href="https://github.com/md-ahmed-tanvir"><img src="https://img.icons8.com/fluent/48/github.png"/></a>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack  
 
-![Tanvir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&theme=gruvbox)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=gruvbox)
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
 
 ---
 
-> “I listen to data—it never lies. It teaches, guides, and empowers.”  
-> — Md.Tanvir Ahmed
+## 📌 Featured Projects  
+
+🔗 [**Data Analyst Portfolio Projects**](https://github.com/md-ahmed-tanvir/DataAnalystPortfolioProjects)  
+📊 SQL · Python · Tableau · Power BI · Excel  
+
+🔗 [**Google Play Store App Analysis**](https://github.com/md-ahmed-tanvir/google-play-analysis)  
+📱 Exploratory Data Analysis & Dashboard  
+
+🔗 [**Doctor Deficit Projection – Germany**](https://github.com/md-ahmed-tanvir/doctor-deficit-projection)  
+📉 Forecasting with Python  
+
+🔗 [**Car Sales Performance Dashboard**](https://github.com/md-ahmed-tanvir/Car-Sales-Performance-Dashboard)  
+🚗 Excel interactive dashboard  
+
+---
+
+## 🎓 Certifications  
+
+<p align="center">
+<i>Hover/click to explore — 40+ certifications 🎖️</i>
+</p>
+
+<table>
+<tr>
+<td align="center"><img src="https://img.icons8.com/color/96/ibm.png"/><br><b>IBM Data Analyst</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/google-logo.png"/><br><b>Google Data Analytics</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/microsoft.png"/><br><b>Microsoft Career Essentials in Data Analysis</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/oracle-logo.png"/><br><b>Oracle Cloud Infrastructure Data Science</b></td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://img.icons8.com/color/96/deloitte.png"/><br><b>Deloitte Data Analytics Job Simulation</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/pwc.png"/><br><b>PwC Power BI Job Simulation</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/linkedin.png"/><br><b>LinkedIn SQL for Data Analysis</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/cisco.png"/><br><b>Cisco Data Analytics Essentials</b></td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://img.icons8.com/color/96/udemy.png"/><br><b>Udemy Excel & BI</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/tableau-software.png"/><br><b>Tableau Data Visualization</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/python.png"/><br><b>Python for Data Science</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/statistics.png"/><br><b>Applied Statistics</b></td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://img.icons8.com/color/96/machine-learning.png"/><br><b>Machine Learning Basics</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/cloud.png"/><br><b>Cloud Data Fundamentals</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/excel.png"/><br><b>Advanced Excel Analytics</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/power-bi.png"/><br><b>Power BI Advanced</b></td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://img.icons8.com/color/96/sql.png"/><br><b>Advanced SQL</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/numpy.png"/><br><b>NumPy Mastery</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/pandas.png"/><br><b>Pandas for Data Analysis</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/seaborn.png"/><br><b>Seaborn & Matplotlib</b></td>
+</tr>
+
+<!-- You can keep adding rows until all 40+ are covered -->
+
+</table>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-ahmed-tanvir&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&theme=tokyo-night"/>
+</p>
+
+---
+
+> ✨ “I listen to data—it never lies. It teaches, guides, and empowers.”  
+> — Md. Tanvir Ahmed
