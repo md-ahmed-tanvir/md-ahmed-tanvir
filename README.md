@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
-  Hey, I'm <span style="color:#6C63FF; text-shadow: 0 0 15px #6C63FF;">Md. Tanvir Ahmed</span>
+  Hey, I'm <span style="color:#6C63FF; text-shadow:0 0 15px #6C63FF;">Md. Tanvir Ahmed</span>
 </h1>
 
 <h3 align="center" style="color:#9CA3AF; font-weight:400;">
@@ -17,26 +17,16 @@
 
 ---
 
-## 👨‍💻 About Me  
+## 🌟 About Me  
 
 🔹 Strong foundation in **Mathematics + Data Analytics**  
 🔹 Skilled in **Python, SQL, Power BI, Tableau, Excel**  
-🔹 Experience: **Data Analysis Projects, BI Dashboards, Business Insights**  
-🔹 Fun fact: I’ve earned **40+ certifications** from IBM, Google, Microsoft, Oracle & more 🎖️  
+🔹 Hands-on experience in **Data Analysis Projects, BI Dashboards, Forecasting Models**  
+🔹 Fun fact: I’ve earned **40+ certifications** in Data Analytics, ML, and BI 🎖️  
 
 ---
 
-## 🌍 Connect with Me  
-
-<p align="center">
-  <a href="mailto:md.ahmedtanvirdev@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
-  <a href="https://www.linkedin.com/in/md-tanvir-ahmed-dev/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
-  <a href="https://github.com/md-ahmed-tanvir"><img src="https://img.icons8.com/fluent/48/github.png"/></a>
-</p>
-
----
-
-## 🛠️ Tech Stack  
+## 🛠️ Tools & Tech Stack  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -44,6 +34,11 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-43B02A?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
 </p>
 
 ---
@@ -66,49 +61,40 @@
 
 ## 🎓 Certifications  
 
-<p align="center">
-<i>Hover/click to explore — 40+ certifications 🎖️</i>
-</p>
+<div align="center">
 
-<table>
-<tr>
-<td align="center"><img src="https://img.icons8.com/color/96/ibm.png"/><br><b>IBM Data Analyst</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/google-logo.png"/><br><b>Google Data Analytics</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/microsoft.png"/><br><b>Microsoft Career Essentials in Data Analysis</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/oracle-logo.png"/><br><b>Oracle Cloud Infrastructure Data Science</b></td>
-</tr>
+| Certification | Provider |
+|--------------|-----------|
+| IBM Data Analyst | IBM |
+| Data Analysis Using Python | IBM |
+| Data Visualization | Forage |
+| Data Science Foundations | IBM |
+| Python for Data Science, AI & Development | IBM |
+| Machine Learning with Python | IBM |
+| SQL for Data Science | UC Davis |
+| Google Data Analytics | Google |
+| Microsoft Career Essentials in Data Analysis | Microsoft & LinkedIn |
+| Power BI Data Analyst Associate (PL-300) | Microsoft |
+| Oracle Cloud Infrastructure Certified Data Science Professional | Oracle |
+| Tableau Data Visualization | Tableau |
+| Deloitte Data Analytics Job Simulation | Forage |
+| PwC Switzerland Power BI Job Simulation | Forage |
+| Cisco Data Science | Cisco Networking Academy |
+| Cisco Data Analytics Essentials | Cisco |
+| HP LIFE Business Analytics | HP |
+| R for Applied Statistics & Data Science | ISRT Dhaka (Training) |
+| Business Analysis Foundations | Simplilearn |
+| Excel for Business Analytics | Simplilearn |
+| SQL (Intermediate) | HackerRank |
+| Python (Basic + Intermediate) | HackerRank |
+| Machine Learning Foundations | UniAthena |
+| AI Essentials | UniAthena |
+| Power BI for Business Intelligence | Ostad |
+| Tableau Advanced Dashboarding | Ostad |
+| MindLuster Business Intelligence Training | MindLuster |
+| And **20+ more...** | Various |
 
-<tr>
-<td align="center"><img src="https://img.icons8.com/color/96/deloitte.png"/><br><b>Deloitte Data Analytics Job Simulation</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/pwc.png"/><br><b>PwC Power BI Job Simulation</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/linkedin.png"/><br><b>LinkedIn SQL for Data Analysis</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/cisco.png"/><br><b>Cisco Data Analytics Essentials</b></td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://img.icons8.com/color/96/udemy.png"/><br><b>Udemy Excel & BI</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/tableau-software.png"/><br><b>Tableau Data Visualization</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/python.png"/><br><b>Python for Data Science</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/statistics.png"/><br><b>Applied Statistics</b></td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://img.icons8.com/color/96/machine-learning.png"/><br><b>Machine Learning Basics</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/cloud.png"/><br><b>Cloud Data Fundamentals</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/excel.png"/><br><b>Advanced Excel Analytics</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/power-bi.png"/><br><b>Power BI Advanced</b></td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://img.icons8.com/color/96/sql.png"/><br><b>Advanced SQL</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/numpy.png"/><br><b>NumPy Mastery</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/pandas.png"/><br><b>Pandas for Data Analysis</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/seaborn.png"/><br><b>Seaborn & Matplotlib</b></td>
-</tr>
-
-<!-- You can keep adding rows until all 40+ are covered -->
-
-</table>
+</div>
 
 ---
 
@@ -121,6 +107,25 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&theme=tokyo-night"/>
+</p>
+
+---
+
+## 📫 Contact Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-tanvir-ahmed-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:md.ahmedtanvirdev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/md-ahmed-tanvir">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://your-resume-link.com">
+    <img src="https://img.shields.io/badge/Resume-6C63FF?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
+  </a>
 </p>
 
 ---
