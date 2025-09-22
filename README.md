@@ -20,7 +20,7 @@
 ## 👨‍💻 About Me  
 
 🔹 Strong foundation in **Mathematics + Data Analytics**  
-🔹 Skilled in **Python, SQL, Power BI, Tableau, Excel**  
+🔹 Skilled in **Python, SQL, Power BI, Tableau, Excel, Backend Dev**  
 🔹 Experience: **Data Analysis Projects, BI Dashboards, Business Insights**  
 🔹 Fun fact: I’ve earned **40+ certifications** from IBM, Google, Microsoft, Oracle & more 🎖️  
 
@@ -86,7 +86,7 @@
 </tr>
 
 <tr>
-<td align="center"><img src="https://img.icons8.com/color/96/udemy.png"/><br><b>Udemy Excel & BI</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/meta.png"/><br><b>Meta Back-End Developer</b></td>
 <td align="center"><img src="https://img.icons8.com/color/96/tableau-software.png"/><br><b>Tableau Data Visualization</b></td>
 <td align="center"><img src="https://img.icons8.com/color/96/python.png"/><br><b>Python for Data Science</b></td>
 <td align="center"><img src="https://img.icons8.com/color/96/statistics.png"/><br><b>Applied Statistics</b></td>
