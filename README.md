@@ -22,7 +22,7 @@
 🔹 Strong foundation in **Mathematics + Data Analytics**  
 🔹 Skilled in **Python, SQL, Power BI, Tableau, Excel, Backend Dev**  
 🔹 Experience: **Data Analysis Projects, BI Dashboards, Business Insights**  
-🔹 Fun fact: I’ve earned **40+ certifications** from IBM, Google, Microsoft, Oracle & more 🎖️  
+🔹 Fun fact: I’ve earned **40+ certifications** from IBM, Google, Microsoft, Oracle, Meta & more 🎖️  
 
 ---
 
