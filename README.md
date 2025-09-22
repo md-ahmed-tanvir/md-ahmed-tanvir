@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/md-ahmed-tanvir/md-ahmed-tanvir/blob/main/472222671_601355472482006_4932856795916365641_n.jpg?raw=true" width="100%" alt="Cover Banner"/>
+  <img src="https://github.com/md-ahmed-tanvir/md-ahmed-tanvir/blob/main/472718258_601884802429073_242275153795685835_n.jpg?raw=true" width="100%" alt="Cover Banner"/>
 </p>
 
 <h1 align="center">
