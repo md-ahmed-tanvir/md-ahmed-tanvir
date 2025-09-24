@@ -200,21 +200,79 @@
 
 --- 
 
----
 
-## 📌 Featured Projects  
+## 🏆 Featured Projects
 
-🔗 [**Data Analyst Portfolio Projects**](https://github.com/md-ahmed-tanvir/DataAnalystPortfolioProjects)  
-📊 SQL · Python · Tableau · Power BI · Excel  
+<div align="center" style="margin: 30px 0;">
+  <table style="width: 90%; border-collapse: collapse;">
+    <tr>
+      <td style="padding: 15px; text-align: center;">
+        <b style="color: #4B5EAA;">Amazon Sales SQL</b><br>
+        SQL-based analysis of Amazon sales performance, customer behavior, and revenue trends.<br>
+        <a href="https://github.com/md-ahmed-tanvir/Amazon-Sales-SQL">
+          <img src="https://img.shields.io/badge/View_Repo-4B5EAA?style=flat-square&logo=github" alt="View Repo">
+        </a>
+      </td>
+      <td style="padding: 15px; text-align: center;">
+        <b style="color: #4B5EAA;">Hotel Bookings Analysis</b><br>
+        EDA & visualization of hotel booking demand, cancellations, and forecasting insights.<br>
+        <a href="https://github.com/md-ahmed-tanvir/Hotel-Bookings">
+          <img src="https://img.shields.io/badge/View_Repo-4B5EAA?style=flat-square&logo=github" alt="View Repo">
+        </a>
+      </td>
+      <td style="padding: 15px; text-align: center;">
+        <b style="color: #4B5EAA;">Credit Card Report</b><br>
+        Financial reporting on spending patterns, revenue trends, and customer segmentation.<br>
+        <a href="https://github.com/md-ahmed-tanvir/Credit-Card-Financial-Report">
+          <img src="https://img.shields.io/badge/View_Repo-4B5EAA?style=flat-square&logo=github" alt="View Repo">
+        </a>
+      </td>
+    </tr>
+    
+    <tr>
+      <td style="padding: 15px; text-align: center;">
+        <b style="color: #4B5EAA;">Retail Sales SQL</b><br>
+        SQL queries for extracting key business insights: trends, top products, and growth.<br>
+        <a href="https://github.com/md-ahmed-tanvir/SQL_Retail_sale">
+          <img src="https://img.shields.io/badge/View_Repo-4B5EAA?style=flat-square&logo=github" alt="View Repo">
+        </a>
+      </td>
+      <td style="padding: 15px; text-align: center;">
+        <b style="color: #4B5EAA;">Data Analyst Portfolio</b><br>
+        A collection of SQL, Python, Tableau, Excel & Power BI projects demonstrating skills.<br>
+        <a href="https://github.com/md-ahmed-tanvir/DataAnalystPortfolioProjects">
+          <img src="https://img.shields.io/badge/View_Portfolio-4B5EAA?style=flat-square&logo=github" alt="View Portfolio">
+        </a>
+      </td>
+      <td style="padding: 15px; text-align: center;">
+        <b style="color: #4B5EAA;">Sales Insights (SQL + Power BI)</b><br>
+        Business KPI dashboard using SQL Server, Excel, and Power BI visualizations.<br>
+        <a href="https://github.com/md-ahmed-tanvir/Sales_Insights-SQL-Power-BI">
+          <img src="https://img.shields.io/badge/View_Dashboard-4B5EAA?style=flat-square&logo=powerbi" alt="View Dashboard">
+        </a>
+      </td>
+    </tr>
 
-🔗 [**Google Play Store App Analysis**](https://github.com/md-ahmed-tanvir/google-play-analysis)  
-📱 Exploratory Data Analysis & Dashboard  
+    <tr>
+      <td style="padding: 15px; text-align: center;">
+        <b style="color: #4B5EAA;">Cricket Data Analysis</b><br>
+        Data cleaning, EDA, and predictive insights from ESPN cricket datasets.<br>
+        <a href="https://github.com/md-ahmed-tanvir/ESPN-Cricket-data-analysis">
+          <img src="https://img.shields.io/badge/View_Repo-20BEFF?style=flat-square&logo=kaggle" alt="View Kaggle">
+        </a>
+      </td>
+      <td style="padding: 15px; text-align: center;">
+        <b style="color: #4B5EAA;">Zomato Insights</b><br>
+        Customer and restaurant trend analysis using Python data science libraries.<br>
+        <a href="https://github.com/md-ahmed-tanvir/Zomato-Data-Analysis-and-Customer-Insights">
+          <img src="https://img.shields.io/badge/View_Repo-4B5EAA?style=flat-square&logo=github" alt="View Repo">
+        </a>
+      </td>
+      <td></td>
+    </tr>
+  </table>
+</div>
 
-🔗 [**Doctor Deficit Projection – Germany**](https://github.com/md-ahmed-tanvir/doctor-deficit-projection)  
-📉 Forecasting with Python  
-
-🔗 [**Car Sales Performance Dashboard**](https://github.com/md-ahmed-tanvir/Car-Sales-Performance-Dashboard)  
-🚗 Excel interactive dashboard  
 
 ---
 
