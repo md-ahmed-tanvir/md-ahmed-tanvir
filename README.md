@@ -290,137 +290,158 @@
 
 <tr>
 <td align="center">
-<img src="https://img.icons8.com/color/96/ibm.png"/><br>
+<img src="https://img.icons8.com/color/96/ibm.png" width="60"/><br>
 <b>IBM Data Analyst</b><br>
-<a href="https://www.credly.com/badges/XP39KZ52IYE1" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+<a href="https://www.credly.com/badges/XP39KZ52IYE1" target="_blank">
+<img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+</a><br>
+<img src="https://img.icons8.com/color/48/data-configuration.png" width="40"/><br>
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/google-logo.png"/><br>
+<img src="https://img.icons8.com/color/96/google-logo.png" width="60"/><br>
 <b>Google Data Analytics</b><br>
-<a href="https://coursera.org/account/accomplishments/certificate/UEPT15IACX0V" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+<a href="https://coursera.org/account/accomplishments/certificate/UEPT15IACX0V" target="_blank">
+<img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+</a><br>
+<img src="https://img.icons8.com/color/48/data-configuration.png" width="40"/><br>
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/microsoft.png"/><br>
+<img src="https://img.icons8.com/color/96/microsoft.png" width="60"/><br>
 <b>Microsoft Power BI Data Analyst</b><br>
-<a href="https://learn.microsoft.com/en-us/certifications/certification/ZA5X0GZ3K7YW" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+<a href="https://learn.microsoft.com/en-us/certifications/certification/ZA5X0GZ3K7YW" target="_blank">
+<img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+</a><br>
+<img src="https://img.icons8.com/color/48/power-bi.png" width="40"/><br>
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/oracle-logo.png"/><br>
+<img src="https://img.icons8.com/color/96/oracle-logo.png" width="60"/><br>
 <b>Oracle Cloud Infrastructure Data Science</b><br>
-<a href="https://catalog-education.oracle.com/pls/certview/ecertificate?ocid=102353565OCI25DSOCP" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+<a href="https://catalog-education.oracle.com/pls/certview/ecertificate?ocid=102353565OCI25DSOCP" target="_blank">
+<img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+</a><br>
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40"/><br>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://img.icons8.com/color/96/deloitte.png"/><br>
+<img src="https://img.icons8.com/color/96/deloitte.png" width="60"/><br>
 <b>Deloitte Data Analytics Simulation</b><br>
-<a href="https://forage.com/koML793Tm3jAB7P4Q" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+<a href="https://forage.com/koML793Tm3jAB7P4Q" target="_blank">
+<img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+</a><br>
+<img src="https://img.icons8.com/color/48/data-configuration.png" width="40"/><br>
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/pwc.png"/><br>
+<img src="https://img.icons8.com/color/96/pwc.png" width="60"/><br>
 <b>PwC Power BI Job Simulation</b><br>
-<a href="https://forage.com/kAooxqdbMXK3vu5Wj" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+<a href="https://forage.com/kAooxqdbMXK3vu5Wj" target="_blank">
+<img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+</a><br>
+<img src="https://img.icons8.com/color/48/power-bi.png" width="40"/><br>
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/cisco.png"/><br>
+<img src="https://img.icons8.com/color/96/cisco.png" width="60"/><br>
 <b>Cisco Data Analytics Essentials</b><br>
-<a href="https://www.netacad.com/portal/credential/cisco-data-analytics" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+<a href="https://www.netacad.com/portal/credential/cisco-data-analytics" target="_blank">
+<img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+</a><br>
+<img src="https://img.icons8.com/color/48/data-configuration.png" width="40"/><br>
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/meta.png"/><br>
-<b>Meta Back-End Developer</b><br>
-<a href="https://www.coursera.org/account/accomplishments/certificate/8E6K0AXPHF2W" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://img.icons8.com/color/96/accenture.png"/><br>
+<img src="https://img.icons8.com/color/96/accenture.png" width="60"/><br>
 <b>Accenture Data Analytics Simulation</b><br>
-<a href="https://forage.com/Ko3abLnGfLj8KynYs" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+<a href="https://forage.com/Ko3abLnGfLj8KynYs" target="_blank">
+<img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+</a><br>
+<img src="https://img.icons8.com/color/48/data-configuration.png" width="40"/><br>
 </td>
+</tr>
 
+<tr>
 <td align="center">
-<img src="https://img.icons8.com/color/96/bcg.png"/><br>
+<img src="https://img.icons8.com/color/96/bcg.png" width="60"/><br>
 <b>BCG Data Science Simulation</b><br>
-<a href="https://forage.com/Xsiev5PWS7KXWGvf3" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+<a href="https://forage.com/Xsiev5PWS7KXWGvf3" target="_blank">
+<img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+</a><br>
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40"/><br>
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/tata.png"/><br>
+<img src="https://img.icons8.com/color/96/tata.png" width="60"/><br>
 <b>Tata Data Visualization</b><br>
-<a href="https://forage.com/ef6NC5XqXnGRGoGDk" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+<a href="https://forage.com/ef6NC5XqXnGRGoGDk" target="_blank">
+<img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+</a><br>
+<img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="40"/><br>
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/quantum-computing.png"/><br>
+<img src="https://img.icons8.com/color/96/quantum-computing.png" width="60"/><br>
 <b>Quantium Data Analytics Simulation</b><br>
-<a href="https://forage.com/LFWwY4Ct4fMEpTdoZ" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://img.icons8.com/color/96/free-code-camp.png"/><br>
-<b>freeCodeCamp Data Analysis with Python</b><br>
-<a href="https://www.freecodecamp.org/certification/mdahmedtanvirdev217/dawp" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+<a href="https://forage.com/LFWwY4Ct4fMEpTdoZ" target="_blank">
+<img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+</a><br>
+<img src="https://img.icons8.com/color/48/data-configuration.png" width="40"/><br>
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/free-code-camp.png"/><br>
-<b>freeCodeCamp Machine Learning with Python</b><br>
-<a href="https://www.freecodecamp.org/certification/mdahmedtanvirdev217/mlwp" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
-</td>
-
-<td align="center">
-<img src="https://img.icons8.com/color/96/python.png"/><br>
-<b>Python for Data Science (Infosys)</b><br>
-<a href="https://validate.onwingspan.com" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
-</td>
-
-<td align="center">
-<img src="https://img.icons8.com/color/96/r-project.png"/><br>
+<img src="https://img.icons8.com/color/96/r-project.png" width="60"/><br>
 <b>R for Data Science (Skillsoft)</b><br>
-<a href="R%20for%20Data%20Science_%20Data%20Visualization.pdf" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+<a href="R%20for%20Data%20Science_%20Data%20Visualization.pdf" target="_blank">
+<img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+</a><br>
+<img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="40"/><br>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://img.icons8.com/color/96/excel.png"/><br>
+<img src="https://img.icons8.com/color/96/ms-excel.png" width="60"/><br>
 <b>Data Analysis with Excel (Futurenation)</b><br>
-<a href="Data%20Analysis%20with%20Excel-CERTIFICATE.pdf" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+<a href="Data%20Analysis%20with%20Excel-CERTIFICATE.pdf" target="_blank">
+<img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+</a><br>
+<img src="https://img.icons8.com/color/48/ms-excel.png" width="40"/><br>
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/mysql-logo.png"/><br>
-<b>Simplilearn SQL for Data Analysis</b><br>
-<a href="https://certificates.simplilearn.com/verify/8514773" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
-</td>
-
-<td align="center">
-<img src="https://img.icons8.com/color/96/machine-learning.png"/><br>
+<img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="60"/><br>
 <b>AI & ML Fundamentals (Grameenphone)</b><br>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+</a><br>
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40"/><br>
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/96/statistics.png"/><br>
-<b>Basics of Data Science (UniAthena)</b><br>
-<a href="Md.%20Tanvir_CR1061_certificate.pdf" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+<img src="https://img.icons8.com/color/96/python.png" width="60"/><br>
+<b>Python for Data Science (Cognitive Class)</b><br>
+<a href="https://courses.cognitiveclass.ai/certificates/a8fb4d9cfeb644179dd644c461791b23" target="_blank">
+<img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+</a><br>
+<img src="https://img.icons8.com/color/48/python.png" width="40"/><br>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/machine-learning.png" width="60"/><br>
+<b>Explore ML using Python (Infosys)</b><br>
+<a href="https://validate.onwingspan.com" target="_blank">
+<img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+</a><br>
+<img src="https://img.icons8.com/color/48/machine-learning.png" width="40"/><br>
 </td>
 </tr>
-
-<!-- Keep extending with Infosys, CognitiveClass, HP Life, Ostad, MindLuster, UniAthena ML/BI, NetCom GCP, etc. -->
 
 </table>
+
 
 ---
 ## 💻 Technology Spectrum
