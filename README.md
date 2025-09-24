@@ -288,43 +288,87 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://img.icons8.com/color/96/ibm.png"/><br><b>IBM Data Analyst</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/google-logo.png"/><br><b>Google Data Analytics</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/microsoft.png"/><br><b>Microsoft Career Essentials in Data Analysis</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/oracle-logo.png"/><br><b>Oracle Cloud Infrastructure Data Science</b></td>
+<td align="center">
+<img src="https://img.icons8.com/color/96/ibm.png"/><br>
+<b>IBM Data Analyst</b><br>
+<a href="https://www.credly.com/badges/XP39KZ52IYE1" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/google-logo.png"/><br>
+<b>Google Data Analytics</b><br>
+<a href="https://www.coursera.org/account/accomplishments/certificate/UEPT15IACX0V" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/microsoft.png"/><br>
+<b>Microsoft Power BI Data Analyst</b><br>
+<a href="https://learn.microsoft.com/en-us/certifications/certification/ZA5X0GZ3K7YW" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/oracle-logo.png"/><br>
+<b>Oracle Data Science Professional</b><br>
+<a href="https://catalog-education.oracle.com/pls/certview/ecertificate?ocid=102353565OCI25DSOCP" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+</td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://img.icons8.com/color/96/deloitte.png"/><br><b>Deloitte Data Analytics Job Simulation</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/pwc.png"/><br><b>PwC Power BI Job Simulation</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/linkedin.png"/><br><b>LinkedIn SQL for Data Analysis</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/cisco.png"/><br><b>Cisco Data Analytics Essentials</b></td>
+<td align="center">
+<img src="https://img.icons8.com/color/96/deloitte.png"/><br>
+<b>Deloitte Data Analytics Simulation</b><br>
+<a href="https://forage.com/koML793Tm3jAB7P4Q" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/pwc.png"/><br>
+<b>PwC Power BI Simulation</b><br>
+<a href="https://forage.com/kAooxqdbMXK3vu5Wj" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/cisco.png"/><br>
+<b>Cisco Data Analytics</b><br>
+<a href="https://www.credly.com/badges/ZA-analytics" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/meta.png"/><br>
+<b>Meta Back-End Developer</b><br>
+<a href="https://www.coursera.org/account/accomplishments/certificate/8E6K0AXPHF2W" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+</td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://img.icons8.com/color/96/meta.png"/><br><b>Meta Back-End Developer</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/tableau-software.png"/><br><b>Tableau Data Visualization</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/python.png"/><br><b>Python for Data Science</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/statistics.png"/><br><b>Applied Statistics</b></td>
+<td align="center">
+<img src="https://img.icons8.com/color/96/accenture.png"/><br>
+<b>Accenture Data Analytics Simulation</b><br>
+<a href="https://forage.com/Ko3abLnGfLj8KynYs" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/bcg.png"/><br>
+<b>BCG Data Science Simulation</b><br>
+<a href="https://forage.com/Xsiev5PWS7KXWGvf3" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/tata.png"/><br>
+<b>Tata Data Visualization</b><br>
+<a href="https://forage.com/ef6NC5XqXnGRGoGDk" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/quantum-computing.png"/><br>
+<b>Quantium Data Analytics</b><br>
+<a href="https://forage.com/LFWwY4Ct4fMEpTdoZ" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+</td>
 </tr>
 
-<tr>
-<td align="center"><img src="https://img.icons8.com/color/96/machine-learning.png"/><br><b>Machine Learning Basics</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/cloud.png"/><br><b>Cloud Data Fundamentals</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/excel.png"/><br><b>Advanced Excel Analytics</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/power-bi.png"/><br><b>Power BI Advanced</b></td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://img.icons8.com/color/96/sql.png"/><br><b>Advanced SQL</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/numpy.png"/><br><b>NumPy Mastery</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/pandas.png"/><br><b>Pandas for Data Analysis</b></td>
-<td align="center"><img src="https://img.icons8.com/color/96/seaborn.png"/><br><b>Seaborn & Matplotlib</b></td>
-</tr>
-
-<!-- You can keep adding rows until all 40+ are covered -->
+<!-- Keep adding more rows for IBM, Infosys, freeCodeCamp, Simplilearn, UniAthena, etc. -->
 
 </table>
+
 
 ---
 ## 💻 Technology Spectrum
