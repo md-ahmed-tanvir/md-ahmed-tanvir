@@ -345,7 +345,7 @@
         </a>
       </td>
       <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-        <img src="https://img.icons8.com/color/48/pricewaterhousecoopers.png" width="40"/><br>
+        <img src="https://img.icons8.com/color/48/accenture.png" width="40"/><br>
         <b>Accenture NA - Data Analytics Simulation</b><br>
         <i>Accenture</i><br><br>
         <a href="https://github.com/md-ahmed-tanvir/Certificates/Accenture_DataAnalytics_Simulation.pdf">
@@ -417,7 +417,6 @@
 </div>  
 
 *Note: All certificates are uploaded in the GitHub [Certificates](https://github.com/md-ahmed-tanvir/Certificates) folder.*  
-
 
 
 ---
