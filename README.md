@@ -233,7 +233,7 @@
       <b>Cricket Data Analysis</b><br>
       Data cleaning, EDA, and predictive insights from ESPN cricket datasets.<br><br>
       <a href="https://github.com/md-ahmed-tanvir/ESPN-Cricket-data-analysis">
-        <img src="https://img.shields.io/badge/View_Repo-20BEFF?style=flat-square&logo=kaggle" alt="View Kaggle">
+       <img src="https://img.shields.io/badge/View_Repo-4B5EAA?style=flat-square&logo=github" alt="View Repo">
       </a>
     </td>
     <td align="center" width="33%">
@@ -327,6 +327,22 @@
 </table>
 
 ---
+## 💻 Technology Spectrum
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 25px 0;">
+
+<!-- Language Distribution -->
+<div style="flex: 1; min-width: 300px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8" alt="Top Languages" />
+</div>
+
+<!-- Contribution Graph -->
+<div style="flex: 1; min-width: 300px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-ahmed-tanvir&theme=github_dark" alt="Contribution Graph" />
+</div>
+
+</div>
+
 
 ## 📊 GitHub Stats  
 
@@ -342,4 +358,7 @@
 ---
 
 > ✨ “I listen to data—it never lies. It teaches, guides, and empowers.”  
-> — Md. Tanvir Ahmed
+<p align="center" style="margin-top: 20px;">
+  <img src="https://img.shields.io/badge/Made%20by-Md.%20Tanvir%20Ahmed-4B5EAA?style=flat-square&logo=github&logoColor=white" alt="Made by Md. Tanvir Ahmed">
+</p>
+
