@@ -287,6 +287,7 @@
 </p>
 
 <table>
+
 <tr>
 <td align="center">
 <img src="https://img.icons8.com/color/96/ibm.png"/><br>
@@ -297,7 +298,7 @@
 <td align="center">
 <img src="https://img.icons8.com/color/96/google-logo.png"/><br>
 <b>Google Data Analytics</b><br>
-<a href="https://www.coursera.org/account/accomplishments/certificate/UEPT15IACX0V" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+<a href="https://coursera.org/account/accomplishments/certificate/UEPT15IACX0V" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
 </td>
 
 <td align="center">
@@ -308,7 +309,7 @@
 
 <td align="center">
 <img src="https://img.icons8.com/color/96/oracle-logo.png"/><br>
-<b>Oracle Data Science Professional</b><br>
+<b>Oracle Cloud Infrastructure Data Science</b><br>
 <a href="https://catalog-education.oracle.com/pls/certview/ecertificate?ocid=102353565OCI25DSOCP" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
 </td>
 </tr>
@@ -322,14 +323,14 @@
 
 <td align="center">
 <img src="https://img.icons8.com/color/96/pwc.png"/><br>
-<b>PwC Power BI Simulation</b><br>
+<b>PwC Power BI Job Simulation</b><br>
 <a href="https://forage.com/kAooxqdbMXK3vu5Wj" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
 </td>
 
 <td align="center">
 <img src="https://img.icons8.com/color/96/cisco.png"/><br>
-<b>Cisco Data Analytics</b><br>
-<a href="https://www.credly.com/badges/ZA-analytics" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+<b>Cisco Data Analytics Essentials</b><br>
+<a href="https://www.netacad.com/portal/credential/cisco-data-analytics" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
 </td>
 
 <td align="center">
@@ -360,15 +361,66 @@
 
 <td align="center">
 <img src="https://img.icons8.com/color/96/quantum-computing.png"/><br>
-<b>Quantium Data Analytics</b><br>
+<b>Quantium Data Analytics Simulation</b><br>
 <a href="https://forage.com/LFWwY4Ct4fMEpTdoZ" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
 </td>
 </tr>
 
-<!-- Keep adding more rows for IBM, Infosys, freeCodeCamp, Simplilearn, UniAthena, etc. -->
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/color/96/free-code-camp.png"/><br>
+<b>freeCodeCamp Data Analysis with Python</b><br>
+<a href="https://www.freecodecamp.org/certification/mdahmedtanvirdev217/dawp" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/free-code-camp.png"/><br>
+<b>freeCodeCamp Machine Learning with Python</b><br>
+<a href="https://www.freecodecamp.org/certification/mdahmedtanvirdev217/mlwp" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/python.png"/><br>
+<b>Python for Data Science (Infosys)</b><br>
+<a href="https://validate.onwingspan.com" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/r-project.png"/><br>
+<b>R for Data Science (Skillsoft)</b><br>
+<a href="R%20for%20Data%20Science_%20Data%20Visualization.pdf" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/color/96/excel.png"/><br>
+<b>Data Analysis with Excel (Futurenation)</b><br>
+<a href="Data%20Analysis%20with%20Excel-CERTIFICATE.pdf" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/mysql-logo.png"/><br>
+<b>Simplilearn SQL for Data Analysis</b><br>
+<a href="https://certificates.simplilearn.com/verify/8514773" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/machine-learning.png"/><br>
+<b>AI & ML Fundamentals (Grameenphone)</b><br>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/96/statistics.png"/><br>
+<b>Basics of Data Science (UniAthena)</b><br>
+<a href="Md.%20Tanvir_CR1061_certificate.pdf" target="_blank"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=vercel"></a>
+</td>
+</tr>
+
+<!-- Keep extending with Infosys, CognitiveClass, HP Life, Ostad, MindLuster, UniAthena ML/BI, NetCom GCP, etc. -->
 
 </table>
-
 
 ---
 ## 💻 Technology Spectrum
