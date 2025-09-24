@@ -32,6 +32,12 @@
   <a href="mailto:md.ahmedtanvirdev@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
   <a href="https://www.linkedin.com/in/md-tanvir-ahmed-dev/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
   <a href="https://github.com/md-ahmed-tanvir"><img src="https://img.icons8.com/fluent/48/github.png"/></a>
+  <td align="center" width="80" style="padding: 4px;">
+        <a href="https://wa.me/8801740083864">
+          <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="32" alt="WhatsApp" />
+        </a>
+        <br /><sub><b>WhatsApp</b></sub>
+      </td>
 </p>
 
 ---
