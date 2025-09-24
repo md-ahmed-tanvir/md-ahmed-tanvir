@@ -279,140 +279,113 @@
 
 
 ---
-
-<div align="left" style="margin: 30px 0;">
-  <table style="width: 95%; border-collapse: separate; border-spacing: 20px;">
+# 📜 Professional Certifications  
+<div align="center">
+  <table>
     <tr>
-      <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <td align="center" width="300">
         <img src="https://img.icons8.com/color/48/ibm.png" width="40"/><br>
         <b>IBM Data Analyst Professional Certificate</b><br>
         <i>Coursera (IBM Skills Network)</i><br><br>
         <a href="https://coursera.org/verify/professional-cert/DPLGX1488P99">
-          <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+          <img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge">
         </a>
       </td>
-      <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <td align="center" width="300">
         <img src="https://img.icons8.com/color/48/google-logo.png" width="40"/><br>
         <b>Google Data Analytics Professional Certificate</b><br>
         <i>Coursera (Google)</i><br><br>
         <a href="https://coursera.org/account/accomplishments/certificate/UEPT15IACX0V">
-          <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+          <img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge">
         </a>
       </td>
-      <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <td align="center" width="300">
         <img src="https://img.icons8.com/color/48/microsoft.png" width="40"/><br>
         <b>Microsoft Power BI Data Analyst Associate</b><br>
         <i>Microsoft</i><br><br>
         <a href="https://learn.microsoft.com/en-us/users/mdahmedtanvir/certification/ZA5X0GZ3K7YW">
-          <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+          <img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge">
         </a>
       </td>
     </tr>
 
     <tr>
-      <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <td align="center" width="300">
         <img src="https://img.icons8.com/color/48/oracle-logo.png" width="40"/><br>
-        <b>Oracle Cloud Infrastructure Data Science 2023 Associate</b><br>
+        <b>Oracle Cloud Infrastructure Data Science Associate</b><br>
         <i>Oracle University</i><br><br>
         <a href="https://catalog-education.oracle.com/pls/certview/ecertificate?ocid=102353565OCI25DSOCP">
-          <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+          <img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge">
         </a>
       </td>
-      <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <td align="center" width="300">
         <img src="https://img.icons8.com/color/48/deloitte.png" width="40"/><br>
-        <b>Deloitte Data Analytics Virtual Internship</b><br>
+        <b>Deloitte Data Analytics Simulation</b><br>
         <i>Forage</i><br><br>
         <a href="https://forage.com/koML793Tm3jAB7P4Q">
-          <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+          <img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge">
         </a>
       </td>
-      <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <td align="center" width="300">
         <img src="https://img.icons8.com/color/48/pwc.png" width="40"/><br>
-        <b>PwC Power BI Virtual Internship</b><br>
+        <b>PwC Power BI Simulation</b><br>
         <i>Forage</i><br><br>
         <a href="https://forage.com/kAooxqdbMXK3vu5Wj">
-          <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+          <img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge">
         </a>
       </td>
     </tr>
 
     <tr>
-      <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <td align="center" width="300">
         <img src="https://img.icons8.com/color/48/cisco.png" width="40"/><br>
         <b>Cisco Data Analytics Essentials</b><br>
         <i>Cisco Networking Academy</i><br><br>
-        <a href="https://www.netacad.com/portal/credential/cisco-data-analytics">
-          <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+        <a href="#">
+          <img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge">
         </a>
       </td>
-      <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <td align="center" width="300">
         <img src="https://img.icons8.com/color/48/accenture.png" width="40"/><br>
-        <b>Accenture Data Analytics Virtual Internship</b><br>
+        <b>Accenture Data Analytics Simulation</b><br>
         <i>Forage</i><br><br>
         <a href="https://forage.com/Ko3abLnGfLj8KynYs">
-          <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+          <img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge">
         </a>
       </td>
-      <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <td align="center" width="300">
         <img src="https://img.icons8.com/color/48/bcg.png" width="40"/><br>
-        <b>BCG Data Science Virtual Internship</b><br>
+        <b>BCG Data Science Simulation</b><br>
         <i>Forage</i><br><br>
         <a href="https://forage.com/Xsiev5PWS7KXWGvf3">
-          <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+          <img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge">
         </a>
       </td>
     </tr>
 
     <tr>
-      <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <td align="center" width="300">
         <img src="https://img.icons8.com/color/48/tata.png" width="40"/><br>
-        <b>Tata Data Visualization Virtual Internship</b><br>
+        <b>Tata Data Visualization Simulation</b><br>
         <i>Forage</i><br><br>
         <a href="https://forage.com/ef6NC5XqXnGRGoGDk">
-          <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+          <img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge">
         </a>
       </td>
-      <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <td align="center" width="300">
         <img src="https://img.icons8.com/color/48/quantum-computing.png" width="40"/><br>
-        <b>Quantium Data Analytics Virtual Internship</b><br>
+        <b>Quantium Data Analytics Simulation</b><br>
         <i>Forage</i><br><br>
         <a href="https://forage.com/LFWwY4Ct4fMEpTdoZ">
-          <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+          <img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge">
         </a>
       </td>
-      <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+      <td align="center" width="300">
         <img src="https://img.icons8.com/color/48/r-project.png" width="40"/><br>
         <b>R for Data Science</b><br>
         <i>Skillsoft</i><br><br>
-        <a href="https://github.com/RabbiTheAnalyst/Certificates/blob/main/R%20for%20Data%20Science_%20Data%20Visualization.pdf">
-          <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
-        </a>
-      </td>
-    </tr>
-
-    <tr>
-      <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-        <img src="https://img.icons8.com/color/48/ms-excel.png" width="40"/><br>
-        <b>Data Analysis with Excel</b><br>
-        <i>FutureNation x Grameenphone</i><br><br>
-        <a href="https://github.com/RabbiTheAnalyst/Certificates/blob/main/Data%20Analysis%20with%20Excel-CERTIFICATE.pdf">
-          <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
-        </a>
-      </td>
-      <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-        <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40"/><br>
-        <b>AI & ML Fundamentals</b><br>
-        <i>Grameenphone FutureNation</i><br><br>
         <a href="#">
-          <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
-        </a>
-      </td>
-      <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-        <img src="https://img.icons8.com/color/48/python.png" width="40"/><br>
-        <b>Python for Data Science</b><br>
-        <i>Infosys Springboard</i><br><br>
-        <a href="https://validate.onwingspan.com">
-          <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+          <img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge">
         </a>
       </td>
     </tr>
