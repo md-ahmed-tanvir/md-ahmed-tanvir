@@ -441,12 +441,43 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
+  <!-- Main stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&theme=tokyonight" height="165"/>
- 
+  
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <!-- Streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-ahmed-tanvir&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <!-- Contribution graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&theme=tokyo-night" />
+</p>
+
+<p align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=md-ahmed-tanvir&theme=tokyonight&row=1&no-frame=true&no-bg=true"/>
+</p>
+
+<p align="center">
+  <!-- Profile views counter -->
+  <img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 
 ---
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/md-ahmed-tanvir/md-ahmed-tanvir/output/snake.svg" alt="Contribution Snake Animation"/>
+</p>
+
+
+
 
 > ✨ “I listen to data—it never lies. It teaches, guides, and empowers.”  
 <p align="center" style="margin-top: 20px;">
