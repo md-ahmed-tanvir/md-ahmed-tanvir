@@ -1,9 +1,13 @@
 name: Generate Snake
 
 on:
-  schedule: # Runs every 12 hours
+  schedule:          # Runs every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
+# allow the workflow to push files
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -11,17 +15,22 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
-
-      - name: Generate Snake Animation
-        uses: Platane/snk@master
         with:
-          github_user_name: md-ahmed-tanvir
-          outputs: dist/snake.svg
+          fetch-depth: 0
 
-      - name: Push Snake to output branch
+      - name: Generate Snake SVG (svg-only)
+        uses: Platane/snk/svg-only@v3
+        with:
+          # use repository owner (your profile repo)
+          github_user_name: ${{ github.repository_owner }}
+          # output path in repo
+          outputs: |
+            output/snake.svg
+
+      - name: Commit generated SVG
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: "🐍 Generate Snake"
-          add: "dist/snake.svg"
+          message: "chore: update snake animation"
+          add: "output/snake.svg"
