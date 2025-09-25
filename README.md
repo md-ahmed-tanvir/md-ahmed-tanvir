@@ -293,8 +293,6 @@
           <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
         </a>
       </td>
-
-      
       <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
         <img src="https://img.icons8.com/color/48/google-logo.png" width="40"/><br>
         <b>Google Data Analytics</b><br>
@@ -303,17 +301,16 @@
           <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
         </a>
       </td>
-
-      
       <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
         <img src="https://img.icons8.com/color/48/microsoft.png" width="40"/><br>
         <b>Microsoft Power BI Data Analyst</b><br>
         <i>Microsoft</i><br><br>
         <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/ZA5X0GZ3K7YW" target="_blank">
-  <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
-</a>
+          <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+        </a>
       </td>
     </tr>
+
     <tr>
       <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
         <img src="https://img.icons8.com/color/48/oracle.png" width="40"/><br>
@@ -340,6 +337,7 @@
         </a>
       </td>
     </tr>
+
     <tr>
       <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
         <img src="https://img.icons8.com/color/48/pwc.png" width="40"/><br>
@@ -366,6 +364,7 @@
         </a>
       </td>
     </tr>
+
     <tr>
       <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
         <img src="https://img.icons8.com/color/48/bcg.png" width="40"/><br>
@@ -392,6 +391,7 @@
         </a>
       </td>
     </tr>
+
     <tr>
       <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
         <img src="https://img.icons8.com/color/48/cisco.png" width="40"/><br>
@@ -419,10 +419,9 @@
       </td>
     </tr>
   </table>
-</div>  
+</div>
 
 *Note: All certificates are uploaded in the GitHub [Certificates](https://github.com/md-ahmed-tanvir/Certificates) folder.*  
-
 
 ---
 ## 💻 Technology Spectrum
