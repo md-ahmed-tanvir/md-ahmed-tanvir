@@ -470,10 +470,10 @@
 
 
 ---
-## 🐍 Contribution Snake  
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/md-ahmed-tanvir/md-ahmed-tanvir/output/snake.svg" alt="Contribution Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/md-ahmed-tanvir/md-ahmed-tanvir/main/output/snake.svg" alt="Contribution Snake" />
 </p>
 
 
