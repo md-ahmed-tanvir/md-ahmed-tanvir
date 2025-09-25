@@ -445,9 +445,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-ahmed-tanvir&theme=tokyonight" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&theme=tokyo-night"/>
-</p>
 
 ---
 
