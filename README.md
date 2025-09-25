@@ -293,6 +293,8 @@
           <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
         </a>
       </td>
+
+      
       <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
         <img src="https://img.icons8.com/color/48/google-logo.png" width="40"/><br>
         <b>Google Data Analytics</b><br>
@@ -301,6 +303,8 @@
           <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
         </a>
       </td>
+
+      
       <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
         <img src="https://img.icons8.com/color/48/microsoft.png" width="40"/><br>
         <b>Microsoft Power BI Data Analyst</b><br>
@@ -308,8 +312,6 @@
         <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/ZA5X0GZ3K7YW" target="_blank">
   <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
 </a>
-
-        </a>
       </td>
     </tr>
     <tr>
