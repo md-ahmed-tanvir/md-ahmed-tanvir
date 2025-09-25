@@ -419,9 +419,10 @@
       </td>
     </tr>
   </table>
-</div>
+</div>  
 
 *Note: All certificates are uploaded in the GitHub [Certificates](https://github.com/md-ahmed-tanvir/Certificates) folder.*  
+
 
 ---
 ## 💻 Technology Spectrum
