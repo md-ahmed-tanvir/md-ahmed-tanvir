@@ -305,8 +305,10 @@
         <img src="https://img.icons8.com/color/48/microsoft.png" width="40"/><br>
         <b>Microsoft Power BI Data Analyst</b><br>
         <i>Microsoft</i><br><br>
-        <https://www.coursera.org/account/accomplishments/professional-cert/certificate/ZA5X0GZ3K7YW>
-          <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+        <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/ZA5X0GZ3K7YW" target="_blank">
+  <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
+</a>
+
         </a>
       </td>
     </tr>
