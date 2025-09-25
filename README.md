@@ -305,7 +305,7 @@
         <img src="https://img.icons8.com/color/48/microsoft.png" width="40"/><br>
         <b>Microsoft Power BI Data Analyst</b><br>
         <i>Microsoft</i><br><br>
-        <a href="https://github.com/md-ahmed-tanvir/Certificates/Microsoft_PowerBI_Analyst.pdf">
+        <https://www.coursera.org/account/accomplishments/professional-cert/certificate/ZA5X0GZ3K7YW>
           <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
         </a>
       </td>
