@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="https://github.com/md-ahmed-tanvir/md-ahmed-tanvir/blob/main/472718258_601884802429073_242275153795685835_n.jpg?raw=true" width="100%" alt="Cover Banner"/>
 </p>
 
@@ -282,8 +282,11 @@
 ---
 # 📜 Professional Certifications  
 
+## 📜 Professional Certifications  
+
 <div align="left" style="margin: 30px 0;">
   <table style="width: 95%; border-collapse: separate; border-spacing: 20px;">
+
     <tr>
       <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
         <img src="https://img.icons8.com/color/48/ibm.png" width="40"/><br>
@@ -418,10 +421,11 @@
         </a>
       </td>
     </tr>
-  </table>
-</div>  
 
-*Note: All certificates are uploaded in the GitHub [Certificates](https://github.com/md-ahmed-tanvir/Certificates) folder.*  
+  </table>
+</div>
+
+*Note: All certificates are uploaded in the GitHub [Certificates](https://github.com/md-ahmed-tanvir/Certificates) folder.*
 
 
 ---
