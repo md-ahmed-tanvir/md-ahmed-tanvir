@@ -405,7 +405,7 @@
     <img src="https://img.icons8.com/color/48/python.png" width="40"/><br>
     <b>Python for Data Science</b><br>
     <i>Infosys Springboard</i><br><br>
-    <a href="https://github.com/md-ahmed-tanvir/Certificates/Infosys_Python_DataScience.pdf">
+    <a href="https://drive.google.com/file/d/1N-4Bi2D-btVhivo0qWU1PWc27KbdPj1k/view">
       <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
     </a>
   </td>
