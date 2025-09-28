@@ -289,7 +289,7 @@
     <img src="https://img.icons8.com/color/48/ibm.png" width="40"/><br>
     <b>IBM Data Analyst Professional Certificate</b><br>
     <i>IBM</i><br><br>
-    <a href="https://github.com/md-ahmed-tanvir/Certificates/IBM_Data_Analyst.pdf">
+    <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/XP39KZ52IYE1">
       <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
     </a>
   </td>
@@ -297,7 +297,7 @@
     <img src="https://img.icons8.com/color/48/google-logo.png" width="40"/><br>
     <b>Google Data Analytics</b><br>
     <i>Google</i><br><br>
-    <a href="https://github.com/md-ahmed-tanvir/Certificates/Google_Data_Analytics.pdf">
+    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/78FYPD4C5LDC">
       <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
     </a>
   </td>
@@ -316,7 +316,7 @@
     <img src="https://img.icons8.com/color/48/oracle.png" width="40"/><br>
     <b>OCI Certified Data Science Professional</b><br>
     <i>Oracle</i><br><br>
-    <a href="https://github.com/md-ahmed-tanvir/Certificates/Oracle_DataScience_Professional.pdf">
+    <a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC6838209&trackId=OCI25DSOCP&key=1573b8176351deeedb56853fe2a25cb2676372fb">
       <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
     </a>
   </td>
@@ -324,7 +324,7 @@
     <img src="https://img.icons8.com/color/48/meta.png" width="40"/><br>
     <b>Meta Back-End Developer</b><br>
     <i>Meta</i><br><br>
-    <a href="https://github.com/md-ahmed-tanvir/Certificates/Meta_BackEnd_Developer.pdf">
+    <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/8E6K0AXPHF2W">
       <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
     </a>
   </td>
@@ -332,7 +332,7 @@
     <img src="https://img.icons8.com/color/48/freecodecamp.png" width="40"/><br>
     <b>Data Analysis with Python</b><br>
     <i>freeCodeCamp</i><br><br>
-    <a href="https://github.com/md-ahmed-tanvir/Certificates/FreeCodeCamp_DataAnalysis_Python.pdf">
+    <a href="https://freecodecamp.org/certification/mdahmedtanvirdev217/data-analysis-with-python-v7">
       <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
     </a>
   </td>
@@ -343,7 +343,7 @@
     <img src="https://img.icons8.com/color/48/pwc.png" width="40"/><br>
     <b>PwC Switzerland - Power BI Job Simulation</b><br>
     <i>PwC Switzerland</i><br><br>
-    <a href="https://github.com/md-ahmed-tanvir/Certificates/PwC_PowerBI_Simulation.pdf">
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_Cy5dHahH5sxu8HPAX_1742974097904_completion_certificate.pdf">
       <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
     </a>
   </td>
@@ -351,7 +351,7 @@
     <img src="https://img.icons8.com/color/48/accenture.png" width="40"/><br>
     <b>Accenture NA - Data Analytics Simulation</b><br>
     <i>Accenture</i><br><br>
-    <a href="https://github.com/md-ahmed-tanvir/Certificates/Accenture_DataAnalytics_Simulation.pdf">
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/T6kdcdKSTfg2aotxT/hzmoNKtzvAzXsEqx8_T6kdcdKSTfg2aotxT_Cy5dHahH5sxu8HPAX_1742973085517_completion_certificate.pdf">
       <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
     </a>
   </td>
@@ -359,7 +359,7 @@
     <img src="https://img.icons8.com/color/48/deloitte.png" width="40"/><br>
     <b>Deloitte Australia - Data Analytics Simulation</b><br>
     <i>Deloitte</i><br><br>
-    <a href="https://github.com/md-ahmed-tanvir/Certificates/Deloitte_DataAnalytics_Simulation.pdf">
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_Cy5dHahH5sxu8HPAX_1741239868131_completion_certificate.pdf">
       <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
     </a>
   </td>
@@ -370,7 +370,7 @@
     <img src="https://img.icons8.com/color/48/bcg.png" width="40"/><br>
     <b>BCG - Data Science Job Simulation</b><br>
     <i>Boston Consulting Group</i><br><br>
-    <a href="https://github.com/md-ahmed-tanvir/Certificates/BCG_DataScience_Simulation.pdf">
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_Cy5dHahH5sxu8HPAX_1750825097679_completion_certificate.pdf">
       <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
     </a>
   </td>
@@ -378,7 +378,7 @@
     <img src="https://img.icons8.com/color/48/quantum-computing.png" width="40"/><br>
     <b>Quantium - Data Analytics Simulation</b><br>
     <i>Quantium</i><br><br>
-    <a href="https://github.com/md-ahmed-tanvir/Certificates/Quantium_DataAnalytics_Simulation.pdf">
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/32A6DqtsbF7LbKdcq/NkaC7knWtjSbi6aYv_32A6DqtsbF7LbKdcq_Cy5dHahH5sxu8HPAX_1742976201210_completion_certificate.pdf">
       <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
     </a>
   </td>
@@ -386,7 +386,7 @@
     <img src="https://img.icons8.com/color/48/tata.png" width="40"/><br>
     <b>Tata Group - Data Visualization Simulation</b><br>
     <i>Tata Group</i><br><br>
-    <a href="https://github.com/md-ahmed-tanvir/Certificates/Tata_DataVisualization_Simulation.pdf">
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_Cy5dHahH5sxu8HPAX_1741774471806_completion_certificate.pdf">
       <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
     </a>
   </td>
@@ -397,7 +397,7 @@
     <img src="https://img.icons8.com/color/48/cisco.png" width="40"/><br>
     <b>Introduction to Data Science</b><br>
     <i>Cisco</i><br><br>
-    <a href="https://github.com/md-ahmed-tanvir/Certificates/Cisco_Intro_DataScience.pdf">
+    <a href="https://www.credly.com/badges/cd75e49a-9255-432d-ae96-07c1065af64f/linked_in_profile">
       <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
     </a>
   </td>
@@ -413,7 +413,7 @@
     <img src="https://img.icons8.com/color/48/ibm.png" width="40"/><br>
     <b>Data Analysis with Python</b><br>
     <i>IBM Cognitive Class</i><br><br>
-    <a href="https://github.com/md-ahmed-tanvir/Certificates/IBM_DataAnalysis_Python.pdf">
+    <a href="https://courses.cognitiveclass.ai/certificates/43f773023f2640238edeebaec2fc9988">
       <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
     </a>
   </td>
