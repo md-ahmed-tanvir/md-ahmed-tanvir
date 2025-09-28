@@ -340,7 +340,7 @@
 
 <tr>
   <td style="padding: 20px; text-align: center; background: #F9FAFB; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-    <img src="https://img.icons8.com/color/48/pwc.png" width="40"/><br>
+    <img src="https://github.com/md-ahmed-tanvir/md-ahmed-tanvir/blob/main/output/pwc_switzerland_logo.jpg" width="40"/><br>
     <b>PwC Switzerland - Power BI Job Simulation</b><br>
     <i>PwC Switzerland</i><br><br>
     <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_Cy5dHahH5sxu8HPAX_1742974097904_completion_certificate.pdf">
