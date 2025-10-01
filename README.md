@@ -481,6 +481,6 @@
 <p align="center" style="margin-top: 20px;">
   <img src="https://img.shields.io/badge/Made%20by-Md.%20Tanvir%20Ahmed-4B5EAA?style=flat-square&logo=github&logoColor=white" alt="Made by Md. Tanvir Ahmed">
 </p>
-[![Resume](https://img.shields.io/badge/📄_Resume-View_PDF-red?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](https://drive.google.com/file/d/1QQ-cCaqmZIHja_9nmux4JCpl6sQIuyMP/view?usp=drive_link)
+
 
 
