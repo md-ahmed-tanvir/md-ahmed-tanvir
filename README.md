@@ -472,6 +472,9 @@
   <img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
+<a href="https://your-resume-link.com">
+  <img src="https://img.shields.io/badge/📄_Resume-8A2BE2?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=000000"/>
+</a>
 
 ---
 
