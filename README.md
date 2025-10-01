@@ -23,7 +23,9 @@
 🔹 Skilled in **Python, SQL, Power BI, Tableau, Excel, Backend Dev**  
 🔹 Experience: **Data Analysis Projects, BI Dashboards, Business Insights**  
 🔹 Fun fact: I’ve earned **40+ certifications** from IBM, Google, Microsoft, Oracle, Meta & more 🎖️  
-
+<a href="https://your-resume-link.com">
+  <img src="https://img.shields.io/badge/📄_Resume-8A2BE2?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=000000"/>
+</a>
 ---
 
 ## 🌍 Connect with Me  
@@ -472,9 +474,7 @@
   <img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<a href="https://your-resume-link.com">
-  <img src="https://img.shields.io/badge/📄_Resume-8A2BE2?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=000000"/>
-</a>
+
 
 ---
 
