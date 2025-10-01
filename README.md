@@ -471,7 +471,7 @@
   <!-- Profile views counter -->
   <img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
-[![📄 Resume](https://img.shields.io/badge/Resume-PDF-red?style=flat-square&logo=adobeacrobatreader)](https://drive.google.com/file/d/1QQ-cCaqmZIHja_9nmux4JCpl6sQIuyMP/view?usp=drive_link)
+
 
 ---
 
@@ -481,4 +481,5 @@
 <p align="center" style="margin-top: 20px;">
   <img src="https://img.shields.io/badge/Made%20by-Md.%20Tanvir%20Ahmed-4B5EAA?style=flat-square&logo=github&logoColor=white" alt="Made by Md. Tanvir Ahmed">
 </p>
+[![📄 View My Resume](https://img.shields.io/badge/Resume-View%20PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1QQ-cCaqmZIHja_9nmux4JCpl6sQIuyMP/view?usp=drive_link)
 
