@@ -26,6 +26,10 @@
 <a href="https://github.com/md-ahmed-tanvir/CV-Resume">
   <img src="https://img.shields.io/badge/📄_Resume-8A2BE2?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=000000"/>
 </a>
+<a href="https://md-ahmed-tanvir.github.io/Md.TanvirAhmed/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-1E90FF?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=000000"/>
+</a>
+
 ---
 
 ## 🌍 Connect with Me  
