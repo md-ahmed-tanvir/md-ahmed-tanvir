@@ -466,9 +466,9 @@
 </p>
 
 <p align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=md-ahmed-tanvir&theme=tokyonight&row=1&no-frame=true&no-bg=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=md-ahmed-tanvir&theme=tokyonight&row=1&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
+
 
 <p align="center">
   <!-- Profile views counter -->
