@@ -465,9 +465,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&theme=tokyo-night" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=md-ahmed-tanvir&theme=tokyonight&row=1&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
+
 
 
 <p align="center">
