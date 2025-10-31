@@ -62,7 +62,7 @@
 ## 🛠️ Tech Stack  
 
 <div align="left" style="margin: 30px 0;">
-
+<img align="right" alt="Coder" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 ### 🔧 Core Skills
 
 <table>
