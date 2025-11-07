@@ -445,36 +445,50 @@
 </div>
 
 
-## 📊 GitHub Stats  
+## 🚀 GitHub Stats & Achievements  
 
 <p align="center">
-  <!-- Main stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&theme=tokyonight" height="165"/>
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <!-- GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=md-ahmed-tanvir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165" />
   
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=tokyonight" height="165"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=tokyonight&langs_count=8" height="165" />
 </p>
 
 <p align="center">
-  <!-- Streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-ahmed-tanvir&theme=tokyonight" height="165"/>
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=md-ahmed-tanvir&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="165" />
 </p>
 
 <p align="center">
-  <!-- Contribution graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&theme=tokyo-night" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&theme=tokyo-night&area=true&hide_border=true&radius=10" alt="Contribution Graph" />
 </p>
-
-
-
 
 <p align="center">
-  <!-- Profile views counter -->
-  <img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <!-- Contribution Snake Animation -->
+  <img src="https://raw.githubusercontent.com/md-ahmed-tanvir/md-ahmed-tanvir/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
+<p align="center">
+  <!-- Random Dev Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
 
-
+<p align="center">
+  <!-- GitHub Metrics (optional - if you enable metrics in your repo) -->
+  <img src="https://github-readme-metrics.vercel.app/api?username=md-ahmed-tanvir&theme=tokyonight" alt="GitHub Metrics" />
+</p>
 ---
 
 
