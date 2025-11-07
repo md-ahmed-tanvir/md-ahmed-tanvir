@@ -445,7 +445,7 @@
 </div>
 
 
-## 🚀 GitHub Stats & Achievements  
+## 🚀 GitHub Stats & Achievements
 
 <p align="center">
   <!-- Profile Views -->
@@ -475,22 +475,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&theme=tokyo-night&area=true&hide_border=true&radius=10" alt="Contribution Graph" />
 </p>
 
+<!-- Optional: GitHub Metrics (uncomment if you want to try it) -->
+<!--
 <p align="center">
-  <!-- Contribution Snake Animation -->
-  <img src="https://raw.githubusercontent.com/md-ahmed-tanvir/md-ahmed-tanvir/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<p align="center">
-  <!-- Random Dev Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
-
-<p align="center">
-  <!-- GitHub Metrics (optional - if you enable metrics in your repo) -->
   <img src="https://github-readme-metrics.vercel.app/api?username=md-ahmed-tanvir&theme=tokyonight" alt="GitHub Metrics" />
 </p>
----
-
+-->
 
 
 > ✨ “I listen to data—it never lies. It teaches, guides, and empowers.”  
