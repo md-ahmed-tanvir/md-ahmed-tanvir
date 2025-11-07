@@ -453,27 +453,28 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=md-ahmed-tanvir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies" />
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=md-ahmed-tanvir&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <!-- GitHub Stats -->
+  <!-- Main GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165" />
-  
+
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=tokyonight&langs_count=8" height="165" />
 </p>
 
 <p align="center">
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=md-ahmed-tanvir&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="165" />
+  <img src="https://streak-stats.demolab.com?user=md-ahmed-tanvir&theme=tokyonight&hide_border=false" height="165" />
 </p>
 
 <p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&theme=tokyo-night&area=true&hide_border=true&radius=10" alt="Contribution Graph" />
+  <!-- Contribution Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
 
 <!-- Optional: GitHub Metrics (uncomment if you want to try it) -->
 <!--
