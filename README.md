@@ -63,7 +63,7 @@
 
 <div align="left" style="margin: 30px 0;">
 <img align="right" src="https://github.com/md-ahmed-tanvir/md-ahmed-tanvir/blob/main/coder.gif" width="380" height="300">
-### 🔧 Core Skills
+🔧 Core Skills
 
 <table>
   <tr> 
