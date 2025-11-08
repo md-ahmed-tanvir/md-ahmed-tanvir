@@ -62,7 +62,7 @@
 ## 🛠️ Tech Stack  
 
 <div align="left" style="margin: 30px 0;">
-
+<img align="right" src="https://github.com/md-ahmed-tanvir/md-ahmed-tanvir/blob/main/coder.gif" width="380" height="300">
 ### 🔧 Core Skills
 
 <table>
@@ -90,8 +90,8 @@
   </tr>
 </table> 
 
-<img align="right" src="https://github.com/md-ahmed-tanvir/md-ahmed-tanvir/blob/main/coder.gif" width="380" height="300">
-### 🖥️ Development Tools
+
+🖥️ Development Tools
 
 <table>
   <tr>
