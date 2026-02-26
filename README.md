@@ -433,49 +433,43 @@
 ---
 ## 💻 Technology Spectrum
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 25px 0;">
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+</p>
 
-<!-- Language Distribution -->
-<div style="flex: 1; min-width: 300px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8" alt="Top Languages" />
-</div>
+<p align="center">
+  <!-- Profile Summary / Contribution Details -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-ahmed-tanvir&theme=tokyonight"/>
+</p>
 
-<!-- Contribution Graph -->
-<div style="flex: 1; min-width: 300px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-ahmed-tanvir&theme=github_dark" alt="Contribution Graph" />
-</div>
-
-</div>
-
+---
 
 ## 🚀 GitHub Stats & Achievements
 
 <p align="center">
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 <p align="center">
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=md-ahmed-tanvir&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=md-ahmed-tanvir&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 <p align="center">
-  <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=tokyonight&langs_count=8" height="165" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170"/>
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=md-ahmed-tanvir&theme=tokyonight&hide_border=false" height="165" />
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=md-ahmed-tanvir&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <!-- Contribution Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
 
 
