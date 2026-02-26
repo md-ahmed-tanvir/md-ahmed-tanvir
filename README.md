@@ -433,46 +433,44 @@
 ---
 ## 💻 Technology Spectrum
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8" />
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-ahmed-tanvir&theme=github_dark" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <!-- Profile Summary / Contribution Details -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-ahmed-tanvir&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🚀 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=md-ahmed-tanvir&theme=tokyonight&no-frame=true&margin-w=10" />
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=md-ahmed-tanvir&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=tokyonight&langs_count=8" height="165" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=md-ahmed-tanvir&theme=tokyonight" height="165" />
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=md-ahmed-tanvir&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&theme=tokyo-night&area=true&hide_border=true" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
-
 
 <!-- Optional: GitHub Metrics (uncomment if you want to try it) -->
 <!--
