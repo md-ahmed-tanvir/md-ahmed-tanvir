@@ -487,7 +487,10 @@
 </p>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+<div align="center">
 
+<a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+repos!;Lets+build+AI+together!" alt="Typing SVG"/></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:003d5c,50:0a1f35,100:050a0f&section=footer"/>
+
+</div>
