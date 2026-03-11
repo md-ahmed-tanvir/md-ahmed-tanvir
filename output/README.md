@@ -1,12 +1,98 @@
+<!-- ================= HEADER ================= -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050a0f,40:0a1f35,100:003d5c&text=Md.%20Tanvir%20Ahmed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Computer%20Vision&descAlignY=60&descSize=18&stroke=00c8ff&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050a0f,40:0a1f35,100:003d5c&text=Md.%20Tanvir%20Ahmed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer%20%7C%20SQL%20%7C%20Python&descAlignY=60&descSize=18&stroke=00c8ff&strokeWidth=1"/>
 
 <br/>
 
-<a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Computer+Vision+Builder;Deep+Learning+Explorer;Building+Intelligent+Systems" alt="Typing SVG"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Business+Intelligence+Enthusiast;Power+BI+Dashboard+Developer;SQL+%2B+Python+Data+Storyteller;Turning+Data+Into+Insights" />
 
-<br/>
+<br><br>
+
+<!-- SOCIAL BADGES -->
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-00c8ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/md-ahmed-tanvir">
+<img src="https://img.shields.io/badge/GitHub-050a0f?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:md.ahmedtanvirdev@gmail.com">
+<img src="https://img.shields.io/badge/Email-003d5c?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<!-- ================= ABOUT ================= -->
+
+## 👨‍💻 About Me
+
+- 📊 Data Analyst passionate about **data-driven decision making**
+- 📈 Skilled in **Power BI, SQL, Python & Excel**
+- 🧠 Interested in **Business Intelligence & Analytics**
+- 🚀 Building real-world analytics projects
+- 🎯 Goal: Become a **Top Data Analyst / BI Engineer**
+
+<br>
+
+<!-- ================= TECH STACK ================= -->
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&perline=6"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+</div>
+
+<br>
+
+<!-- ================= ANALYTICS ================= -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile%20Views&color=00c8ff&style=for-the-badge"/>
+
+<br><br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=md-ahmed-tanvir&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<!-- ================= ACTIVITY GRAPH ================= -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<br>
+
+<!-- ================= FOOTER ================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003d5c,100:050a0f&height=120&section=footer"/>
+
 
 
 ---
