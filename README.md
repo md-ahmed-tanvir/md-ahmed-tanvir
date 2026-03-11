@@ -1,12 +1,4 @@
 
- <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050a0f,40:0a1f35,100:003d5c&text=Md.%20Tanvir%20Ahmed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer%20%7C%20SQL%20%7C%20Python&descAlignY=60&descSize=18&stroke=00c8ff&strokeWidth=1"/>
-
-<br/>
- 
- 
- 
  <p align="center">
   <img src="https://github.com/md-ahmed-tanvir/md-ahmed-tanvir/blob/main/472718258_601884802429073_242275153795685835_n.jpg?raw=true" width="100%" alt="Cover Banner"/>
 </p>
