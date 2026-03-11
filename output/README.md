@@ -41,24 +41,18 @@
 <br>
 <div align="center">
 
-## 📌 Quick Access
-
-<br>
+<div align="center">
 
 <a href="https://github.com/md-ahmed-tanvir/CV-Resume/blob/main/Md.pdf">
-  <img src="https://img.shields.io/badge/📄%20Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000000" height="45"/>
+<img height="60" src="https://img.shields.io/badge/📄%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
-
-<br><br>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://tanvirahmeddev.netlify.app/#hero">
-  <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-Website-1E90FF?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=000000" height="45"/>
+<img height="60" src="https://img.shields.io/badge/🌐%20Portfolio-Website-1E90FF?style=for-the-badge&logo=githubpages"/>
 </a>
-
-<br><br>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.credly.com/users/md-tanvir-ahmed.">
-  <img src="https://img.shields.io/badge/🏅%20View%20Badge%20Wallet-Credly-orange?style=for-the-badge&logo=credly&logoColor=white&labelColor=000000" height="45"/>
+<img height="60" src="https://img.shields.io/badge/🏅%20Badge%20Wallet-Credly-orange?style=for-the-badge&logo=credly"/>
 </a>
 
 </div>
