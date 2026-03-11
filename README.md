@@ -486,19 +486,7 @@
 
 </div>
 
----
-## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,powerbi&perline=6" />
-
-</div>
-
-<br>
-
-
----
 ---
 
 ## ⭐ GitHub Summary
