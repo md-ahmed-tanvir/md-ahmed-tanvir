@@ -113,9 +113,11 @@ Always curious to learn, build, and innovate. ✨
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&bg_color=050a0f&color=00c8ff&line=00ff9d&point=ffffff&area=true&area_color=00c8ff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&bg_color=050a0f&color=00c8ff&line=00ff9d&point=ffffff&area=true&area_color=00c8ff&hide_border=true&border_radius=12"/>
 
 </div>
+
+---
 
 ---
 
