@@ -89,7 +89,7 @@ Always curious to learn, build, and innovate. ✨
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -111,7 +111,7 @@ Always curious to learn, build, and innovate. ✨
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=md-ahmed-tanvir&theme=tokyonight&hide_border=true&background=050a0f&ring=00c8ff&fire=00ff9d&currStreakLabel=00c8ff&sideLabels=e0eaf5&sideNums=00c8ff&dates=5a7a90&border_radius=12"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=md-ahmed-tanvir&theme=tokyonight&hide_border=true&background=050a0f&ring=00c8ff&fire=00ff9d&currStreakLabel=00c8ff&sideLabels=e0eaf5&sideNums=00c8ff&dates=5a7a90&border_radius=12"/>
 
 </div>
 
@@ -121,13 +121,13 @@ Always curious to learn, build, and innovate. ✨
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=md-ahmed-tanvir&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=md-ahmed-tanvir&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
 
 </div>
 
 <br>
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity Graph
 
 <div align="center">
 
@@ -137,14 +137,13 @@ Always curious to learn, build, and innovate. ✨
 
 <br>
 
-## 🐍 Contribution Snake (Dynamic Animation)
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/md-ahmed-tanvir/md-ahmed-tanvir/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&perline=8" />
 
 </div>
-
 
 ---
 
