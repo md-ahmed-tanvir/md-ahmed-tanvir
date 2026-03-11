@@ -117,17 +117,7 @@ Always curious to learn, build, and innovate. ✨
 
 <br>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=md-ahmed-tanvir&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
-
-<br>
-
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -141,7 +131,17 @@ Always curious to learn, build, and innovate. ✨
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,powerbi&perline=6" />
+
+</div>
+
+<br>
+
+## ⭐ GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-ahmed-tanvir&theme=tokyonight"/>
 
 </div>
 
