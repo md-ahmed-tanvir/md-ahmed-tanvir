@@ -20,10 +20,18 @@
 
 ## 👨‍💻 About Me  
 
-🔹 Strong foundation in **Mathematics + Data Analytics**  
-🔹 Skilled in **Python, SQL, Power BI, Tableau, Excel, Backend Dev**  
-🔹 Experience: **Data Analysis Projects, BI Dashboards, Business Insights**  
-🔹 Fun fact: I’ve earned **60+ certifications** from IBM, Google, Microsoft, Oracle, Meta & more 🎖️  
+
+## 🚀 Professional Highlights
+
+### 🔹 **Strong Foundation in Mathematics + Data Analytics**
+
+### 🔹 **Skilled in Python, SQL, Power BI, Tableau, Excel & Backend Development**
+
+### 🔹 **Experience in Data Analysis Projects, BI Dashboards & Business Insights**
+
+### 🔹 **Fun Fact:** 🏆 **Earned 60+ Certifications from IBM, Google, Microsoft, Oracle, Meta & More**
+
+
 [![📄 Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/md-ahmed-tanvir/CV-Resume/blob/main/Md.pdf)
 
 [![🌐 Portfolio](https://img.shields.io/badge/Portfolio-Website-1E90FF?style=for-the-badge&logo=githubpages)](https://tanvirahmeddev.netlify.app/#hero)
