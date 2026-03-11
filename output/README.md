@@ -38,21 +38,22 @@
 - 🚀 Building real-world analytics projects
 - 🎯 Goal: Become a **Top Data Analyst / BI Engineer**
 
-<br>
-<div align="center">
-
 <div align="center">
 
 <a href="https://github.com/md-ahmed-tanvir/CV-Resume/blob/main/Md.pdf">
-<img height="60" src="https://img.shields.io/badge/📄%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
+<img height="55" src="https://img.shields.io/badge/📄%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+
+<br><br>
+
 <a href="https://tanvirahmeddev.netlify.app/#hero">
-<img height="60" src="https://img.shields.io/badge/🌐%20Portfolio-Website-1E90FF?style=for-the-badge&logo=githubpages"/>
+<img height="55" src="https://img.shields.io/badge/🌐%20Portfolio-Website-1E90FF?style=for-the-badge&logo=githubpages"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+
+<br><br>
+
 <a href="https://www.credly.com/users/md-tanvir-ahmed.">
-<img height="60" src="https://img.shields.io/badge/🏅%20Badge%20Wallet-Credly-orange?style=for-the-badge&logo=credly"/>
+<img height="55" src="https://img.shields.io/badge/🏅%20Badge%20Wallet-Credly-orange?style=for-the-badge&logo=credly"/>
 </a>
 
 </div>
