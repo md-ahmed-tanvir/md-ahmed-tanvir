@@ -89,40 +89,62 @@ Always curious to learn, build, and innovate. ✨
 
 ---
 
-### 👨‍💻 Developer & Tech Enthusiast
+## 📊 GitHub Analytics & Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00c8ff&icon_color=00ff9d&text_color=e0eaf5&border_radius=12"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00c8ff&text_color=e0eaf5&border_radius=12&langs_count=8"/>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile%20Views&color=00c8ff&style=for-the-badge" />
+
+</div>
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=md-ahmed-tanvir&theme=tokyonight&no-bg=true&margin-w=10"/>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00c8ff&icon_color=00ff9d&text_color=e0eaf5&border_radius=12&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00c8ff&text_color=e0eaf5&border_radius=12&langs_count=8"/>
+
+</div>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=md-ahmed-tanvir&theme=tokyonight&hide_border=true&background=050a0f&ring=00c8ff&fire=00ff9d&currStreakLabel=00c8ff&sideLabels=e0eaf5&sideNums=00c8ff&dates=5a7a90&border_radius=12"/>
-
-</div>
-
-## 🛠 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,docker,aws,git" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=md-ahmed-tanvir&theme=tokyonight&hide_border=true&background=050a0f&ring=00c8ff&fire=00ff9d&currStreakLabel=00c8ff&sideLabels=e0eaf5&sideNums=00c8ff&dates=5a7a90&border_radius=12"/>
+
 </div>
 
-## 📈 Activity & Stats
-<div align="center">
-  <img src="https://raw.githubusercontent.com/md-ahmed-tanvir/md-ahmed-tanvir/output/github-contribution-grid-snake.svg" alt="snake-animation" />
-</div>
+<br>
+
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=md-ahmed-tanvir&theme=tokyonight" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=md-ahmed-tanvir&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+
 </div>
 
----
+<br>
+
+## 📈 Contribution Graph
 
 <div align="center">
-  <sub>Built with ❤️ and a little bit of magic.</sub>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&bg_color=050a0f&color=00c8ff&line=00ff9d&point=ffffff&area=true&area_color=00c8ff&hide_border=true"/>
+
 </div>
+
+<br>
+
+## 🐍 Contribution Snake (Dynamic Animation)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/md-ahmed-tanvir/md-ahmed-tanvir/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
 
 ---
 
