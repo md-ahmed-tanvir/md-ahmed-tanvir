@@ -40,21 +40,13 @@
 
 <div align="center">
 
-<a href="https://github.com/md-ahmed-tanvir/CV-Resume/blob/main/Md.pdf">
-<img height="55" src="https://img.shields.io/badge/📄%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
-</a>
+## 📄 Professional Links
 
-<br><br>
+[![📄 Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/md-ahmed-tanvir/CV-Resume/blob/main/Md.pdf)
 
-<a href="https://tanvirahmeddev.netlify.app/#hero">
-<img height="55" src="https://img.shields.io/badge/🌐%20Portfolio-Website-1E90FF?style=for-the-badge&logo=githubpages"/>
-</a>
+[![🌐 Portfolio](https://img.shields.io/badge/Portfolio-Website-1E90FF?style=for-the-badge&logo=githubpages)](https://tanvirahmeddev.netlify.app/#hero)
 
-<br><br>
-
-<a href="https://www.credly.com/users/md-tanvir-ahmed.">
-<img height="55" src="https://img.shields.io/badge/🏅%20Badge%20Wallet-Credly-orange?style=for-the-badge&logo=credly"/>
-</a>
+[![🏅 Badge Wallet](https://img.shields.io/badge/Badge%20Wallet-Credly-orange?style=for-the-badge&logo=credly)](https://www.credly.com/users/md-tanvir-ahmed.)
 
 </div>
 <!-- ================= TECH STACK ================= -->
