@@ -21,7 +21,6 @@
 ## 👨‍💻 About Me  
 
 
-## 🚀 Professional Highlights
 
 ### 🔹 **Strong Foundation in Mathematics + Data Analytics**
 
@@ -32,11 +31,29 @@
 ### 🔹 **Fun Fact:** 🏆 **Earned 60+ Certifications from IBM, Google, Microsoft, Oracle, Meta & More**
 
 
-[![📄 Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/md-ahmed-tanvir/CV-Resume/blob/main/Md.pdf)
+<div align="center">
 
-[![🌐 Portfolio](https://img.shields.io/badge/Portfolio-Website-1E90FF?style=for-the-badge&logo=githubpages)](https://tanvirahmeddev.netlify.app/#hero)
+## 📌 Quick Access
 
-[![🏅 Badge Wallet](https://img.shields.io/badge/Badge%20Wallet-Credly-orange?style=for-the-badge&logo=credly)](https://www.credly.com/users/md-tanvir-ahmed.)
+<br>
+
+<a href="https://github.com/md-ahmed-tanvir/CV-Resume/blob/main/Md.pdf">
+  <img src="https://img.shields.io/badge/📄%20Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000000" height="45"/>
+</a>
+
+<br><br>
+
+<a href="https://tanvirahmeddev.netlify.app/#hero">
+  <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-Website-1E90FF?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=000000" height="45"/>
+</a>
+
+<br><br>
+
+<a href="https://www.credly.com/users/md-tanvir-ahmed.">
+  <img src="https://img.shields.io/badge/🏅%20View%20Badge%20Wallet-Credly-orange?style=for-the-badge&logo=credly&logoColor=white&labelColor=000000" height="45"/>
+</a>
+
+</div>
 
 ---
 
