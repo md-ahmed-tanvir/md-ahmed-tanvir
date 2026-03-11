@@ -89,26 +89,35 @@ Always curious to learn, build, and innovate. ✨
 
 ---
 
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TareqazizUday&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=050a0f&title_color=00c8ff&icon_color=00ff9d&text_color=e0eaf5&border_radius=12&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TareqazizUday&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00c8ff&text_color=e0eaf5&border_radius=12&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00c8ff&icon_color=00ff9d&text_color=e0eaf5&border_radius=12"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00c8ff&text_color=e0eaf5&border_radius=12&langs_count=8"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=TareqazizUday&theme=tokyonight&hide_border=true&background=050a0f&ring=00c8ff&fire=00ff9d&currStreakLabel=00c8ff&sideLabels=e0eaf5&sideNums=00c8ff&dates=5a7a90&border_radius=12"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=md-ahmed-tanvir&theme=tokyonight&hide_border=true&background=050a0f&ring=00c8ff&fire=00ff9d&currStreakLabel=00c8ff&sideLabels=e0eaf5&sideNums=00c8ff&dates=5a7a90&border_radius=12"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TareqazizUday&bg_color=050a0f&color=00c8ff&line=00ff9d&point=ffffff&area=true&area_color=00c8ff&hide_border=true&border_radius=12"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&bg_color=050a0f&color=00c8ff&line=00ff9d&point=ffffff&area=true&area_color=00c8ff&hide_border=true"/>
 
 </div>
+
+---
 
 ---
 
