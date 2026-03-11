@@ -93,7 +93,7 @@ Always curious to learn, build, and innovate. ✨
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile%20Views&color=00c8ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -101,9 +101,9 @@ Always curious to learn, build, and innovate. ✨
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00c8ff&icon_color=00ff9d&text_color=e0eaf5&border_radius=12&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00c8ff&text_color=e0eaf5&border_radius=12&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -111,7 +111,7 @@ Always curious to learn, build, and innovate. ✨
 
 <div align="center">
 
-<img width="75%" src="https://streak-stats.demolab.com?user=md-ahmed-tanvir&theme=tokyonight&hide_border=true&background=050a0f&ring=00c8ff&fire=00ff9d&currStreakLabel=00c8ff&sideLabels=e0eaf5&sideNums=00c8ff&dates=5a7a90&border_radius=12"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=md-ahmed-tanvir&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -121,17 +121,17 @@ Always curious to learn, build, and innovate. ✨
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=md-ahmed-tanvir&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=md-ahmed-tanvir&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
 </div>
 
 <br>
 
-## 📈 Contribution Activity Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&bg_color=050a0f&color=00c8ff&line=00ff9d&point=ffffff&area=true&area_color=00c8ff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -141,7 +141,7 @@ Always curious to learn, build, and innovate. ✨
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&perline=6" />
 
 </div>
 
