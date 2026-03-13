@@ -70,22 +70,27 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile%20Views&color=00c8ff&style=for-the-badge"/>
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&theme=tokyonight&hide_border=true"/>
+<!-- GitHub Stats + Top Languages -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
+<!-- GitHub Streak -->
 <img width="75%" src="https://streak-stats.demolab.com?user=md-ahmed-tanvir&theme=tokyonight&hide_border=true"/>
 
+<br><br>
+
+<!-- Activity Graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&theme=tokyo-night&hide_border=true"/>
+
 </div>
-
-<br>
-
 <!-- ================= ACTIVITY GRAPH ================= -->
 
 ## 📈 Contribution Activity
