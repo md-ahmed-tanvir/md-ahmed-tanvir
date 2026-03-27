@@ -1,14 +1,43 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= PROFILE VIEWS ================= -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
-<div align="center">
+<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050a0f,40:0a1f35,100:003d5c&text=Md.%20Tanvir%20Ahmed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer%20%7C%20SQL%20%7C%20Python&descAlignY=60&descSize=18&stroke=00c8ff&strokeWidth=1"/>
+<!-- ================= GITHUB STATS ================= -->
+<p align="center">
 
-<br/>
+  <!-- GitHub Stats -->
+  <img height="170em"
+       src="https://github-readme-stats.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Business+Intelligence+Enthusiast;Power+BI+Dashboard+Developer;SQL+%2B+Python+Data+Storyteller;Turning+Data+Into+Insights" />
+  <!-- Top Languages -->
+  <img height="170em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 
-<br><br>
+</p>
+
+<br>
+
+<!-- ================= GITHUB STREAK ================= -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=md-ahmed-tanvir&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
+
+<!-- ================= TROPHIES ================= -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=md-ahmed-tanvir&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+</p>
+
+<br>
+
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&theme=tokyo-night&hide_border=true" />
+</p>
 
 <!-- SOCIAL BADGES -->
 
