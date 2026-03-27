@@ -70,17 +70,30 @@
 
 <div align="center">
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<!-- ================= PROFILE VIEWS ================= -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
 
-<br><br>
+<br>
 
-<!-- GitHub Stats + Top Languages -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<!-- ================= GITHUB STATS ================= -->
+<p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em"
+       src="https://github-readme-stats.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
 
-<br><br>
+  <img height="170em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+
+</p>
+
+<br>
+
+<!-- ================= STREAK STATS (OPTIONAL BUT RECOMMENDED) ================= -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=md-ahmed-tanvir&theme=tokyonight&hide_border=true" />
+</p>
 
 <!-- GitHub Streak -->
 <img width="75%" src="https://streak-stats.demolab.com?user=md-ahmed-tanvir&theme=tokyonight&hide_border=true"/>
