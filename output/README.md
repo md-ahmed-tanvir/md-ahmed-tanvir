@@ -7,12 +7,11 @@
 
 <!-- ================= GITHUB STATS ================= -->
 <p align="center">
-  <img height="170em"
-       src="https://github-stats.as93.net/api?username=md-ahmed-tanvir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170em"
-       src="https://github-stats.as93.net/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://streak-stats.demolab.com?user=md-ahmed-tanvir&theme=tokyonight&hide_border=true" />
 </p>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-ahmed-tanvir&theme=tokyonight" />
+</p>
 <!-- ================= GITHUB STREAK ================= -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=md-ahmed-tanvir&theme=tokyonight&hide_border=true" />
