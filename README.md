@@ -231,7 +231,7 @@
 
 
 ## 🏆 Featured Projects
-
+<img src="mario gif.gif" alt="mario gif" />
 <table>
   <tr>
     <td align="center" width="33%">
