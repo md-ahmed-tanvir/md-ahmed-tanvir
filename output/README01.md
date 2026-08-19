@@ -473,6 +473,8 @@ All of these run as free hosted services that read your **public** GitHub data l
 
 <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+repos!;Lets+build+AI+together!" alt="Typing SVG"/></a>
 
+[![](github-contribution-grid-snake.svg)](https://www.linkedin.com/in/md-tanvir-ahmed-dev/)
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:003d5c,50:0a1f35,100:050a0f&section=footer"/>
 
 </div>
