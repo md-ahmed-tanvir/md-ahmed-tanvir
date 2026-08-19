@@ -418,6 +418,27 @@
 
 ## 📊 GitHub Analytics
 
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/md-ahmed-tanvir?label=Followers&style=flat"
+    alt="Followers"
+  />
+</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+
 **Overview**
 
 <p align="center">
