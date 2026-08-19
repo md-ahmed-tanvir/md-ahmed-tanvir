@@ -528,18 +528,7 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=md-ahmed-tanvir&theme=tokyonight"/>
 </p>
 
-<details>
-<summary>ℹ️ How these cards work</summary>
-<br>
 
-- **Total repos / stars / activity graph** — [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-- **Streak (current/longest streak, total contributions)** — [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-- **Contribution line graph** — [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-- **Profile details, stats & top languages cards** — [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-All of these run as free hosted services that read your **public** GitHub data live — no setup needed beyond swapping in your username, which is already done above.
-
-</details>
 
 ---
 
