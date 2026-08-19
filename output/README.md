@@ -21,7 +21,7 @@
       />
     </td>
   
-  <td width="50%" align="center"> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=udaysharmadev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" /> </td> </tr> </table>
+  <td width="50%" align="center"> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=md-ahmed-tanvir&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" /> </td> </tr> </table>
 
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -46,7 +46,7 @@
     <td width="25%" align="center">
       <h3>📌 GitHub Overview</h3>
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=udaysharmadev&theme=tokyonight"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=md-ahmed-tanvir&theme=tokyonight"
         alt="GitHub Overview"
         width="100%"
       />
@@ -58,7 +58,7 @@
   <tr>
     <td width="50%" align="center">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=udaysharmadev&theme=tokyonight"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-ahmed-tanvir&theme=tokyonight"
         alt="Languages by Repository"
         width="100%"
       />
