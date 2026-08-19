@@ -463,6 +463,16 @@ All of these run as free hosted services that read your **public** GitHub data l
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-tanvir-ahmed-dev/">
+    <img src="https://raw.githubusercontent.com/md-ahmed-tanvir/md-ahmed-tanvir/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
+  </a>
+</p>
+
+---
+
 > ✨ "I listen to data — it never lies. It teaches, guides, and empowers."
 
 <p align="center" style="margin-top: 20px;">
@@ -472,8 +482,6 @@ All of these run as free hosted services that read your **public** GitHub data l
 <div align="center">
 
 <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+repos!;Lets+build+AI+together!" alt="Typing SVG"/></a>
-
-[![](github-contribution-grid-snake.svg)](https://www.linkedin.com/in/md-tanvir-ahmed-dev/)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:003d5c,50:0a1f35,100:050a0f&section=footer"/>
 
