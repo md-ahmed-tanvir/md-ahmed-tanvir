@@ -1,22 +1,29 @@
 <h1 align="center">Hey 👋, I'm Md. Tanvir Ahmed</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=udaysharmadev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/udaysharmadev?label=Followers&style=flat" alt="Followers" />
+  <img
+    src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/md-ahmed-tanvir?label=Followers&style=flat"
+    alt="Followers"
+  />
 </p>
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
       <img
-        src="https://github-stats-extended.vercel.app/api?username=udaysharmadev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        src="https://github-stats-extended.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
         alt="GitHub Stats"
         width="100%"
       />
     </td>
+
     <td width="50%" align="center">
       <img
-        src="https://github-readme-streak-stats-eight.vercel.app/?user=udaysharmadev&theme=tokyonight&hide_border=true"
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=md-ahmed-tanvir&theme=tokyonight&hide_border=true"
         alt="GitHub Streak"
         width="100%"
       />
