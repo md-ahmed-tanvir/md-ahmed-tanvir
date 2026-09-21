@@ -4,10 +4,10 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  Hey, I'm <span style="color:#6C63FF;">Md. Tanvir Ahmed</span>
+  Hey, I'm Md. Tanvir Ahmed
 </h1>
 
-<h3 align="center" style="color:#9CA3AF; font-weight:400;">
+<h3 align="center">
   🎓 Aspiring Data Analyst | BI Enthusiast | Mathematics Student
 </h3>
 
@@ -22,6 +22,7 @@
 - 🔹 Strong foundation in **Mathematics + Data Analytics**
 - 🔹 Skilled in **Python, SQL, Power BI, Tableau, Excel & Backend Development**
 - 🔹 Experience in **data analysis projects, BI dashboards & business insights**
+- 🔹 **Consistent builder:** 11,000+ contributions on GitHub in the last 3 years
 - 🔹 **Fun fact:** 🏆 Earned 60+ certifications from IBM, Google, Microsoft, Oracle, Meta & more
 
 ---
@@ -58,19 +59,21 @@
 
 ---
 
-## 📊 Profile Analytics
+## 🔥 Contribution Journey
 
-<p align="center">
-  <a href="https://github.com/md-ahmed-tanvir">
-    <img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile+Views&style=for-the-badge&color=4B5EAA" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/md-ahmed-tanvir?tab=followers">
-    <img src="https://img.shields.io/github/followers/md-ahmed-tanvir?label=Followers&style=for-the-badge&color=4B5EAA" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/md-ahmed-tanvir">
-    <img src="https://img.shields.io/github/stars/md-ahmed-tanvir?label=Stars&style=for-the-badge&color=4B5EAA" alt="GitHub Stars"/>
-  </a>
-</p>
+<div align="center">
+
+| Year | Contributions | Activity | Highlights |
+|:----:|--------------:|:---------|:-----------|
+| **2024** | 10 | ▏ | Just getting started |
+| **2025** | 3,439 | ████████ | Built a consistent daily habit |
+| **2026** | 8,232 | ████████████████████ | Highest year so far, biggest push in August |
+
+**Total: 11,681 contributions across 3 years · 2026 is already 2.4× more than 2025**
+
+<sub>📅 Numbers taken from the GitHub contribution graph, as of September 2026</sub>
+
+</div>
 
 ---
 
@@ -80,19 +83,19 @@
 
 <table align="center">
   <tr>
-    <td align="center" style="padding: 12px;">
+    <td align="center">
       <img src="https://img.icons8.com/color/48/power-bi.png" width="36"/><br><b>Power BI</b>
     </td>
-    <td align="center" style="padding: 12px;">
+    <td align="center">
       <img src="https://img.icons8.com/color/48/python.png" width="36"/><br><b>Python</b>
     </td>
-    <td align="center" style="padding: 12px;">
+    <td align="center">
       <img src="https://img.icons8.com/color/48/sql.png" width="36"/><br><b>SQL</b>
     </td>
-    <td align="center" style="padding: 12px;">
+    <td align="center">
       <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="36"/><br><b>Excel</b>
     </td>
-    <td align="center" style="padding: 12px;">
+    <td align="center">
       <img src="https://img.icons8.com/color/48/google-data-studio.png" width="36"/><br><b>Looker Studio</b>
     </td>
   </tr>
@@ -102,10 +105,10 @@
 
 <table align="center">
   <tr>
-    <td align="center" style="padding: 12px;">
+    <td align="center">
       <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="36"/><br><b>VS Code</b>
     </td>
-    <td align="center" style="padding: 12px;">
+    <td align="center">
       <img src="https://img.icons8.com/fluency/48/jupyter.png" width="36"/><br><b>Jupyter Notebook</b>
     </td>
   </tr>
@@ -115,16 +118,16 @@
 
 <table align="center">
   <tr>
-    <td align="center" style="padding: 12px;">
+    <td align="center">
       <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="36"/><br><b>MS Word</b>
     </td>
-    <td align="center" style="padding: 12px;">
+    <td align="center">
       <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="36"/><br><b>PowerPoint</b>
     </td>
-    <td align="center" style="padding: 12px;">
+    <td align="center">
       <img src="https://img.icons8.com/color/48/latex.png" width="36"/><br><b>LaTeX</b>
     </td>
-    <td align="center" style="padding: 12px;">
+    <td align="center">
       <img src="https://img.icons8.com/color/48/canva.png" width="36"/><br><b>Canva</b>
     </td>
   </tr>
@@ -226,7 +229,7 @@
       <b>Cricket Data Analysis</b><br>
       Data cleaning, EDA, and predictive insights from ESPN cricket datasets.<br><br>
       <a href="https://github.com/md-ahmed-tanvir/ESPN-Cricket-data-analysis">
-       <img src="https://img.shields.io/badge/View_Repo-4B5EAA?style=flat-square&logo=github" alt="View Repo">
+        <img src="https://img.shields.io/badge/View_Repo-4B5EAA?style=flat-square&logo=github" alt="View Repo">
       </a>
     </td>
     <td align="center" width="33%">
@@ -418,18 +421,16 @@
 
 ## 📊 GitHub Analytics
 
-
-
-
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
-  <img
-    src="https://img.shields.io/github/followers/md-ahmed-tanvir?label=Followers&style=flat"
-    alt="Followers"
-  />
+  <a href="https://github.com/md-ahmed-tanvir">
+    <img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile+Views&style=for-the-badge&color=4B5EAA" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/md-ahmed-tanvir?tab=followers">
+    <img src="https://img.shields.io/github/followers/md-ahmed-tanvir?label=Followers&style=for-the-badge&color=4B5EAA" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/md-ahmed-tanvir">
+    <img src="https://img.shields.io/github/stars/md-ahmed-tanvir?label=Stars&style=for-the-badge&color=4B5EAA" alt="GitHub Stars"/>
+  </a>
 </p>
 
 <table align="center" width="100%">
@@ -441,31 +442,25 @@
         width="100%"
       />
     </td>
-  
-  <td width="50%" align="center"> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=md-ahmed-tanvir&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" /> </td> </tr> </table>
-
-
-
-<table align="center" width="100%">
-  <tr>
-    <td width="75%" align="center">
-      <h3>📈 Contribution Activity</h3>
+    <td width="50%" align="center">
       <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&theme=tokyo-night&hide_border=true&area=true&height=180"
-        alt="Contribution Activity"
-        width="100%"
-      />
-    </td>
-    <td width="25%" align="center">
-      <h3>📌 GitHub Overview</h3>
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=md-ahmed-tanvir&theme=tokyonight"
-        alt="GitHub Overview"
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=md-ahmed-tanvir&theme=tokyonight&hide_border=true"
+        alt="GitHub Streak"
         width="100%"
       />
     </td>
   </tr>
 </table>
+
+<h3 align="center">📈 Contribution Activity</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&theme=tokyo-night&hide_border=true&area=true&height=220"
+    alt="Contribution Activity"
+    width="100%"
+  />
+</p>
 
 <table align="center" width="100%">
   <tr>
@@ -478,7 +473,7 @@
     </td>
     <td width="50%" align="center">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=udaysharmadev&theme=tokyonight"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=md-ahmed-tanvir&theme=tokyonight"
         alt="Languages by Commit"
         width="100%"
       />
@@ -486,49 +481,11 @@
   </tr>
 </table>
 
-
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-stats-extended.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
-        alt="GitHub Stats"
-        width="100%"
-      />
-    </td>
-
-**Overview**
+<h3 align="center">⭐ Profile Summary</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00c8ff&icon_color=00ff9d&text_color=e0eaf5&border_radius=12"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ahmed-tanvir&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00c8ff&text_color=e0eaf5&border_radius=12&langs_count=8"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-ahmed-tanvir&theme=tokyonight" alt="Profile Summary"/>
 </p>
-
-**🔥 Streak**
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=md-ahmed-tanvir&theme=tokyonight&hide_border=true&background=050a0f&ring=00c8ff&fire=00ff9d&currStreakLabel=00c8ff&sideLabels=e0eaf5&sideNums=00c8ff&dates=5a7a90&border_radius=12"/>
-</p>
-
-**📈 Contribution Activity**
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&bg_color=050a0f&color=00c8ff&line=00ff9d&point=ffffff&area=true&area_color=00c8ff&hide_border=true"/>
-</p>
-
-**⭐ Profile Summary**
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-ahmed-tanvir&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=md-ahmed-tanvir&theme=tokyonight"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=md-ahmed-tanvir&theme=tokyonight"/>
-</p>
-
-
 
 ---
 
@@ -544,7 +501,7 @@
 
 > ✨ "I listen to data — it never lies. It teaches, guides, and empowers."
 
-<p align="center" style="margin-top: 20px;">
+<p align="center">
   <img src="https://img.shields.io/badge/Made%20by-Md.%20Tanvir%20Ahmed-4B5EAA?style=flat-square&logo=github&logoColor=white" alt="Made by Md. Tanvir Ahmed">
 </p>
 
