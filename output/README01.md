@@ -22,7 +22,6 @@
 - 🔹 Strong foundation in **Mathematics + Data Analytics**
 - 🔹 Skilled in **Python, SQL, Power BI, Tableau, Excel & Backend Development**
 - 🔹 Experience in **data analysis projects, BI dashboards & business insights**
-- 🔹 **Consistent builder:** 11,000+ contributions on GitHub in the last 3 years
 - 🔹 **Fun fact:** 🏆 Earned 60+ certifications from IBM, Google, Microsoft, Oracle, Meta & more
 
 ---
@@ -59,21 +58,19 @@
 
 ---
 
-## 🔥 Contribution Journey
+## 📊 Profile Analytics
 
-<div align="center">
-
-| Year | Contributions | Activity | Highlights |
-|:----:|--------------:|:---------|:-----------|
-| **2024** | 10 | ▏ | Just getting started |
-| **2025** | 3,439 | ████████ | Built a consistent daily habit |
-| **2026** | 8,232 | ████████████████████ | Highest year so far, biggest push in August |
-
-**Total: 11,681 contributions across 3 years · 2026 is already 2.4× more than 2025**
-
-<sub>📅 Numbers taken from the GitHub contribution graph, as of September 2026</sub>
-
-</div>
+<p align="center">
+  <a href="https://github.com/md-ahmed-tanvir">
+    <img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile+Views&style=for-the-badge&color=4B5EAA" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/md-ahmed-tanvir?tab=followers">
+    <img src="https://img.shields.io/github/followers/md-ahmed-tanvir?label=Followers&style=for-the-badge&color=4B5EAA" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/md-ahmed-tanvir">
+    <img src="https://img.shields.io/github/stars/md-ahmed-tanvir?label=Stars&style=for-the-badge&color=4B5EAA" alt="GitHub Stars"/>
+  </a>
+</p>
 
 ---
 
@@ -422,22 +419,21 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/md-ahmed-tanvir">
-    <img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile+Views&style=for-the-badge&color=4B5EAA" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/md-ahmed-tanvir?tab=followers">
-    <img src="https://img.shields.io/github/followers/md-ahmed-tanvir?label=Followers&style=for-the-badge&color=4B5EAA" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/md-ahmed-tanvir">
-    <img src="https://img.shields.io/github/stars/md-ahmed-tanvir?label=Stars&style=for-the-badge&color=4B5EAA" alt="GitHub Stars"/>
-  </a>
+  <img
+    src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/md-ahmed-tanvir?label=Followers&style=flat"
+    alt="Followers"
+  />
 </p>
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
       <img
-        src="https://github-stats-extended.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        src="https://github-stats-extended.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"
         alt="GitHub Stats"
         width="100%"
       />
@@ -456,7 +452,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&theme=tokyo-night&hide_border=true&area=true&height=220"
+    src="https://fabianocouto-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&theme=tokyo-night&hide_border=true&area=true&height=220"
     alt="Contribution Activity"
     width="100%"
   />
