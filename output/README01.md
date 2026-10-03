@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/md-ahmed-tanvir/md-ahmed-tanvir/blob/main/472718258_601884802429073_242275153795685835_n.jpg?raw=true" width="100%" alt="Cover Banner"/>
+  <img src="https://raw.githubusercontent.com/md-ahmed-tanvir/md-ahmed-tanvir/main/472718258_601884802429073_242275153795685835_n.jpg" width="100%" alt="Cover Banner"/>
 </p>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="wave"/>
   Hey, I'm Md. Tanvir Ahmed
 </h1>
 
@@ -31,15 +31,15 @@
 <div align="center">
 
 <a href="https://github.com/md-ahmed-tanvir/CV-Resume/blob/main/Md.Tanvir_Ahmed_Analyst_Resume.pdf">
-<img height="45" src="https://img.shields.io/badge/📄%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
+<img height="45" src="https://img.shields.io/badge/📄%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="Resume"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://tanvirahmeddev.netlify.app/#hero">
-<img height="45" src="https://img.shields.io/badge/🌐%20Portfolio-Website-1E90FF?style=for-the-badge&logo=githubpages"/>
+<img height="45" src="https://img.shields.io/badge/🌐%20Portfolio-Website-1E90FF?style=for-the-badge&logo=githubpages" alt="Portfolio"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.credly.com/users/md-tanvir-ahmed">
-<img height="45" src="https://img.shields.io/badge/🏅%20Badge%20Wallet-Credly-orange?style=for-the-badge&logo=credly"/>
+<img height="45" src="https://img.shields.io/badge/🏅%20Badge%20Wallet-Credly-orange?style=for-the-badge" alt="Credly"/>
 </a>
 
 </div>
@@ -49,27 +49,11 @@
 ## 🌍 Connect with Me
 
 <p align="center">
-  <a href="mailto:md.ahmedtanvirdev@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
-  <a href="https://www.linkedin.com/in/md-tanvir-ahmed-dev/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+  <a href="mailto:md.ahmedtanvirdev@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/md-tanvir-ahmed-dev/"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://www.facebook.com/md.tanvirahmeddev"><img src="https://img.icons8.com/color/48/facebook.png" alt="Facebook"/></a>
-  <a href="https://github.com/md-ahmed-tanvir"><img src="https://img.icons8.com/fluent/48/github.png"/></a>
-  <a href="https://wa.me/8801882060723"><img src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
-</p>
-
----
-
-## 📊 Profile Analytics
-
-<p align="center">
-  <a href="https://github.com/md-ahmed-tanvir">
-    <img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile+Views&style=for-the-badge&color=4B5EAA" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/md-ahmed-tanvir?tab=followers">
-    <img src="https://img.shields.io/github/followers/md-ahmed-tanvir?label=Followers&style=for-the-badge&color=4B5EAA" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/md-ahmed-tanvir">
-    <img src="https://img.shields.io/github/stars/md-ahmed-tanvir?label=Stars&style=for-the-badge&color=4B5EAA" alt="GitHub Stars"/>
-  </a>
+  <a href="https://github.com/md-ahmed-tanvir"><img src="https://img.icons8.com/fluent/48/github.png" alt="GitHub"/></a>
+  <a href="https://wa.me/8801882060723"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"/></a>
 </p>
 
 ---
@@ -80,21 +64,11 @@
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/power-bi.png" width="36"/><br><b>Power BI</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/python.png" width="36"/><br><b>Python</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/sql.png" width="36"/><br><b>SQL</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="36"/><br><b>Excel</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/google-data-studio.png" width="36"/><br><b>Looker Studio</b>
-    </td>
+    <td align="center"><img src="https://img.icons8.com/color/48/power-bi.png" width="36" alt="Power BI"/><br><b>Power BI</b></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/python.png" width="36" alt="Python"/><br><b>Python</b></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/sql.png" width="36" alt="SQL"/><br><b>SQL</b></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="36" alt="Excel"/><br><b>Excel</b></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/google-data-studio.png" width="36" alt="Looker Studio"/><br><b>Looker Studio</b></td>
   </tr>
 </table>
 
@@ -102,12 +76,8 @@
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="36"/><br><b>VS Code</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/48/jupyter.png" width="36"/><br><b>Jupyter Notebook</b>
-    </td>
+    <td align="center"><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="36" alt="VS Code"/><br><b>VS Code</b></td>
+    <td align="center"><img src="https://img.icons8.com/fluency/48/jupyter.png" width="36" alt="Jupyter"/><br><b>Jupyter Notebook</b></td>
   </tr>
 </table>
 
@@ -115,24 +85,16 @@
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="36"/><br><b>MS Word</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="36"/><br><b>PowerPoint</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/latex.png" width="36"/><br><b>LaTeX</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/canva.png" width="36"/><br><b>Canva</b>
-    </td>
+    <td align="center"><img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="36" alt="MS Word"/><br><b>MS Word</b></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="36" alt="PowerPoint"/><br><b>PowerPoint</b></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/latex.png" width="36" alt="LaTeX"/><br><b>LaTeX</b></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/canva.png" width="36" alt="Canva"/><br><b>Canva</b></td>
   </tr>
 </table>
 
 **📊 Technology Matrix**
 
-<table>
+<table align="center">
   <tr>
     <th align="center">Category</th>
     <th align="left">Technologies</th>
@@ -142,6 +104,7 @@
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+      <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="T-SQL">
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
     </td>
   </tr>
@@ -150,9 +113,9 @@
     <td>
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib">
-      <img src="https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge&logo=databricks&logoColor=white" alt="Seaborn">
-      <img src="https://img.shields.io/badge/Statistical%20Analysis-00599C?style=for-the-badge&logo=statistics&logoColor=white" alt="Statistical Analysis">
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib">
+      <img src="https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge" alt="Seaborn">
+      <img src="https://img.shields.io/badge/Statistical%20Analysis-00599C?style=for-the-badge" alt="Statistical Analysis">
     </td>
   </tr>
   <tr>
@@ -175,7 +138,7 @@
     <td align="center"><b>Machine Learning / AI</b></td>
     <td>
       <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange" alt="Machine Learning">
-      <img src="https://img.shields.io/badge/Artificial%20Intelligence-5C2D91?style=for-the-badge&logo=azureai&logoColor=white" alt="AI">
+      <img src="https://img.shields.io/badge/Artificial%20Intelligence-5C2D91?style=for-the-badge&logo=openai&logoColor=white" alt="AI">
       <img src="https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Data Science">
     </td>
   </tr>
@@ -191,80 +154,62 @@
   </tr>
 </table>
 
-✨ *Showcasing technologies that I use for data analysis, visualization & documentation.*
+<p align="center"><i>✨ Technologies I use for data analysis, visualization & documentation.</i></p>
 
 ---
 
 ## 🏆 Featured Projects
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="33%">
       <b>Retail Sales SQL</b><br>
       SQL queries for extracting key business insights: trends, top products, and growth.<br><br>
-      <a href="https://github.com/md-ahmed-tanvir/SQL_Retail_sale">
-        <img src="https://img.shields.io/badge/View_Repo-4B5EAA?style=flat-square&logo=github" alt="View Repo">
-      </a>
+      <a href="https://github.com/md-ahmed-tanvir/SQL_Retail_sale"><img src="https://img.shields.io/badge/View_Repo-4B5EAA?style=flat-square&logo=github" alt="View Repo"></a>
     </td>
     <td align="center" width="33%">
       <b>Sales Insights (SQL + Power BI)</b><br>
       Business KPI dashboard using SQL Server, Excel, and Power BI visualizations.<br><br>
-      <a href="https://github.com/md-ahmed-tanvir/Sales_Insights-SQL-Power-BI">
-        <img src="https://img.shields.io/badge/View_Dashboard-4B5EAA?style=flat-square&logo=powerbi" alt="View Dashboard">
-      </a>
+      <a href="https://github.com/md-ahmed-tanvir/Sales_Insights-SQL-Power-BI"><img src="https://img.shields.io/badge/View_Dashboard-4B5EAA?style=flat-square&logo=powerbi" alt="View Dashboard"></a>
     </td>
     <td align="center" width="33%">
       <b>Amazon Sales SQL</b><br>
       SQL-based analysis of Amazon sales data: performance, customer behavior, and revenue trends.<br><br>
-      <a href="https://github.com/md-ahmed-tanvir/Amazon-Sales-SQL">
-        <img src="https://img.shields.io/badge/View_Repo-4B5EAA?style=flat-square&logo=github" alt="View Repo">
-      </a>
+      <a href="https://github.com/md-ahmed-tanvir/Amazon-Sales-SQL"><img src="https://img.shields.io/badge/View_Repo-4B5EAA?style=flat-square&logo=github" alt="View Repo"></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <b>Cricket Data Analysis</b><br>
       Data cleaning, EDA, and predictive insights from ESPN cricket datasets.<br><br>
-      <a href="https://github.com/md-ahmed-tanvir/ESPN-Cricket-data-analysis">
-        <img src="https://img.shields.io/badge/View_Repo-4B5EAA?style=flat-square&logo=github" alt="View Repo">
-      </a>
+      <a href="https://github.com/md-ahmed-tanvir/ESPN-Cricket-data-analysis"><img src="https://img.shields.io/badge/View_Repo-4B5EAA?style=flat-square&logo=github" alt="View Repo"></a>
     </td>
     <td align="center" width="33%">
       <b>Zomato Insights</b><br>
       Customer and restaurant trend analysis using Python data science libraries.<br><br>
-      <a href="https://github.com/md-ahmed-tanvir/Zomato-Data-Analysis-and-Customer-Insights">
-        <img src="https://img.shields.io/badge/View_Repo-4B5EAA?style=flat-square&logo=github" alt="View Repo">
-      </a>
+      <a href="https://github.com/md-ahmed-tanvir/Zomato-Data-Analysis-and-Customer-Insights"><img src="https://img.shields.io/badge/View_Repo-4B5EAA?style=flat-square&logo=github" alt="View Repo"></a>
     </td>
     <td align="center" width="33%">
       <b>Hotel Bookings Analysis</b><br>
       EDA & visualization of hotel booking demand, cancellations, and forecasting.<br><br>
-      <a href="https://github.com/md-ahmed-tanvir/Hotel-Bookings">
-        <img src="https://img.shields.io/badge/View_Repo-4B5EAA?style=flat-square&logo=github" alt="View Repo">
-      </a>
+      <a href="https://github.com/md-ahmed-tanvir/Hotel-Bookings"><img src="https://img.shields.io/badge/View_Repo-4B5EAA?style=flat-square&logo=github" alt="View Repo"></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <b>Credit Card Financial Report</b><br>
       Analysis of credit card transactions with customer segmentation & revenue insights.<br><br>
-      <a href="https://github.com/md-ahmed-tanvir/Credit-Card-Financial-Report">
-        <img src="https://img.shields.io/badge/View_Repo-4B5EAA?style=flat-square&logo=github" alt="View Repo">
-      </a>
+      <a href="https://github.com/md-ahmed-tanvir/Credit-Card-Financial-Report"><img src="https://img.shields.io/badge/View_Repo-4B5EAA?style=flat-square&logo=github" alt="View Repo"></a>
     </td>
     <td align="center" width="33%">
       <b>Covid-19 SQL Analysis</b><br>
       Exploratory SQL analysis of Covid-19 cases and death trends by country.<br><br>
-      <a href="https://github.com/md-ahmed-tanvir/Covid-19-Data-Analysis-using-SQL">
-        <img src="https://img.shields.io/badge/View_Repo-4B5EAA?style=flat-square&logo=github" alt="View Repo">
-      </a>
+      <a href="https://github.com/md-ahmed-tanvir/Covid-19-Data-Analysis-using-SQL"><img src="https://img.shields.io/badge/View_Repo-4B5EAA?style=flat-square&logo=github" alt="View Repo"></a>
     </td>
     <td align="center" width="33%">
       <b>Data Analyst Portfolio</b><br>
       A collection of SQL, Python, Tableau, Excel & Power BI projects demonstrating skills.<br><br>
-      <a href="https://github.com/md-ahmed-tanvir/DataAnalystPortfolioProjects">
-        <img src="https://img.shields.io/badge/View_Portfolio-4B5EAA?style=flat-square&logo=github" alt="View Portfolio">
-      </a>
+      <a href="https://github.com/md-ahmed-tanvir/DataAnalystPortfolioProjects"><img src="https://img.shields.io/badge/View_Portfolio-4B5EAA?style=flat-square&logo=github" alt="View Portfolio"></a>
     </td>
   </tr>
 </table>
@@ -273,209 +218,149 @@
 
 ## 📜 Professional Certifications
 
-<table>
+<table align="center">
 
 <tr>
   <td align="center" width="33%">
-    <img src="https://img.icons8.com/color/48/ibm.png" width="40"/><br>
+    <img src="https://img.icons8.com/color/48/ibm.png" width="40" alt="IBM"/><br>
     <b>IBM Data Analyst Professional Certificate</b><br>
     <i>IBM</i><br><br>
-    <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/XP39KZ52IYE1">
-      <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
-    </a>
+    <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/XP39KZ52IYE1"><img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify"></a>
   </td>
   <td align="center" width="33%">
-    <img src="https://img.icons8.com/color/48/google-logo.png" width="40"/><br>
+    <img src="https://img.icons8.com/color/48/google-logo.png" width="40" alt="Google"/><br>
     <b>Google Data Analytics</b><br>
     <i>Google</i><br><br>
-    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/78FYPD4C5LDC">
-      <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
-    </a>
+    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/78FYPD4C5LDC"><img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify"></a>
   </td>
   <td align="center" width="33%">
-    <img src="https://img.icons8.com/color/48/microsoft.png" width="40"/><br>
+    <img src="https://img.icons8.com/color/48/microsoft.png" width="40" alt="Microsoft"/><br>
     <b>Microsoft Power BI Data Analyst</b><br>
     <i>Microsoft</i><br><br>
-    <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/ZA5X0GZ3K7YW" target="_blank">
-      <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
-    </a>
+    <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/ZA5X0GZ3K7YW"><img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify"></a>
   </td>
 </tr>
 
 <tr>
   <td align="center" width="33%">
-    <img src="https://github.com/md-ahmed-tanvir/md-ahmed-tanvir/blob/main/output/oracle_logo.jpg?raw=true" width="40"/><br>
+    <img src="https://raw.githubusercontent.com/md-ahmed-tanvir/md-ahmed-tanvir/main/output/oracle_logo.jpg" width="40" alt="Oracle"/><br>
     <b>OCI Certified Data Science Professional</b><br>
     <i>Oracle</i><br><br>
-    <a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC6838209&trackId=OCI25DSOCP&key=1573b8176351deeedb56853fe2a25cb2676372fb">
-      <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
-    </a>
+    <a href="https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC6838209&trackId=OCI25DSOCP&key=1573b8176351deeedb56853fe2a25cb2676372fb"><img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify"></a>
   </td>
   <td align="center" width="33%">
-    <img src="https://img.icons8.com/color/48/meta.png" width="40"/><br>
+    <img src="https://img.icons8.com/color/48/meta.png" width="40" alt="Meta"/><br>
     <b>Meta Back-End Developer</b><br>
     <i>Meta</i><br><br>
-    <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/8E6K0AXPHF2W">
-      <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
-    </a>
+    <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/8E6K0AXPHF2W"><img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify"></a>
   </td>
   <td align="center" width="33%">
-    <img src="https://github.com/md-ahmed-tanvir/md-ahmed-tanvir/blob/main/output/free_code_camp_logo.jpg?raw=true" width="40"/><br>
+    <img src="https://raw.githubusercontent.com/md-ahmed-tanvir/md-ahmed-tanvir/main/output/free_code_camp_logo.jpg" width="40" alt="freeCodeCamp"/><br>
     <b>Data Analysis with Python</b><br>
     <i>freeCodeCamp</i><br><br>
-    <a href="https://freecodecamp.org/certification/mdahmedtanvirdev217/data-analysis-with-python-v7">
-      <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
-    </a>
+    <a href="https://freecodecamp.org/certification/mdahmedtanvirdev217/data-analysis-with-python-v7"><img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify"></a>
   </td>
 </tr>
 
 <tr>
   <td align="center" width="33%">
-    <img src="https://github.com/md-ahmed-tanvir/md-ahmed-tanvir/blob/main/output/pwc_switzerland_logo.jpg?raw=true" width="40"/><br>
+    <img src="https://raw.githubusercontent.com/md-ahmed-tanvir/md-ahmed-tanvir/main/output/pwc_switzerland_logo.jpg" width="40" alt="PwC"/><br>
     <b>PwC Switzerland - Power BI Job Simulation</b><br>
     <i>PwC Switzerland</i><br><br>
-    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_Cy5dHahH5sxu8HPAX_1742974097904_completion_certificate.pdf">
-      <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
-    </a>
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_Cy5dHahH5sxu8HPAX_1742974097904_completion_certificate.pdf"><img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify"></a>
   </td>
   <td align="center" width="33%">
-    <img src="https://github.com/md-ahmed-tanvir/md-ahmed-tanvir/blob/main/output/accenture_logo.jpg?raw=true" width="40"/><br>
+    <img src="https://raw.githubusercontent.com/md-ahmed-tanvir/md-ahmed-tanvir/main/output/accenture_logo.jpg" width="40" alt="Accenture"/><br>
     <b>Accenture NA - Data Analytics Simulation</b><br>
     <i>Accenture</i><br><br>
-    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/T6kdcdKSTfg2aotxT/hzmoNKtzvAzXsEqx8_T6kdcdKSTfg2aotxT_Cy5dHahH5sxu8HPAX_1742973085517_completion_certificate.pdf">
-      <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
-    </a>
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/T6kdcdKSTfg2aotxT/hzmoNKtzvAzXsEqx8_T6kdcdKSTfg2aotxT_Cy5dHahH5sxu8HPAX_1742973085517_completion_certificate.pdf"><img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify"></a>
   </td>
   <td align="center" width="33%">
-    <img src="https://github.com/md-ahmed-tanvir/md-ahmed-tanvir/blob/main/output/deloitte_logo.jpg?raw=true" width="40"/><br>
+    <img src="https://raw.githubusercontent.com/md-ahmed-tanvir/md-ahmed-tanvir/main/output/deloitte_logo.jpg" width="40" alt="Deloitte"/><br>
     <b>Deloitte Australia - Data Analytics Simulation</b><br>
     <i>Deloitte</i><br><br>
-    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_Cy5dHahH5sxu8HPAX_1741239868131_completion_certificate.pdf">
-      <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
-    </a>
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_Cy5dHahH5sxu8HPAX_1741239868131_completion_certificate.pdf"><img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify"></a>
   </td>
 </tr>
 
 <tr>
   <td align="center" width="33%">
-    <img src="https://github.com/md-ahmed-tanvir/md-ahmed-tanvir/blob/main/output/bcg_x_logo.jpg?raw=true" width="40"/><br>
+    <img src="https://raw.githubusercontent.com/md-ahmed-tanvir/md-ahmed-tanvir/main/output/bcg_x_logo.jpg" width="40" alt="BCG"/><br>
     <b>BCG - Data Science Job Simulation</b><br>
     <i>Boston Consulting Group</i><br><br>
-    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_Cy5dHahH5sxu8HPAX_1750825097679_completion_certificate.pdf">
-      <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
-    </a>
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_Cy5dHahH5sxu8HPAX_1750825097679_completion_certificate.pdf"><img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify"></a>
   </td>
   <td align="center" width="33%">
-    <img src="https://github.com/md-ahmed-tanvir/md-ahmed-tanvir/blob/main/output/quantium_logo.jpg?raw=true" width="40"/><br>
+    <img src="https://raw.githubusercontent.com/md-ahmed-tanvir/md-ahmed-tanvir/main/output/quantium_logo.jpg" width="40" alt="Quantium"/><br>
     <b>Quantium - Data Analytics Simulation</b><br>
     <i>Quantium</i><br><br>
-    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/32A6DqtsbF7LbKdcq/NkaC7knWtjSbi6aYv_32A6DqtsbF7LbKdcq_Cy5dHahH5sxu8HPAX_1742976201210_completion_certificate.pdf">
-      <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
-    </a>
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/32A6DqtsbF7LbKdcq/NkaC7knWtjSbi6aYv_32A6DqtsbF7LbKdcq_Cy5dHahH5sxu8HPAX_1742976201210_completion_certificate.pdf"><img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify"></a>
   </td>
   <td align="center" width="33%">
-    <img src="https://github.com/md-ahmed-tanvir/md-ahmed-tanvir/blob/main/output/tata_group_logo.jpg?raw=true" width="40"/><br>
+    <img src="https://raw.githubusercontent.com/md-ahmed-tanvir/md-ahmed-tanvir/main/output/tata_group_logo.jpg" width="40" alt="Tata"/><br>
     <b>Tata Group - Data Visualization Simulation</b><br>
     <i>Tata Group</i><br><br>
-    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_Cy5dHahH5sxu8HPAX_1741774471806_completion_certificate.pdf">
-      <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
-    </a>
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_Cy5dHahH5sxu8HPAX_1741774471806_completion_certificate.pdf"><img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify"></a>
   </td>
 </tr>
 
 <tr>
   <td align="center" width="33%">
-    <img src="https://github.com/md-ahmed-tanvir/md-ahmed-tanvir/blob/main/output/cisco_logo.jpg?raw=true" width="40"/><br>
+    <img src="https://raw.githubusercontent.com/md-ahmed-tanvir/md-ahmed-tanvir/main/output/cisco_logo.jpg" width="40" alt="Cisco"/><br>
     <b>Introduction to Data Science</b><br>
     <i>Cisco</i><br><br>
-    <a href="https://www.credly.com/badges/cd75e49a-9255-432d-ae96-07c1065af64f/linked_in_profile">
-      <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
-    </a>
+    <a href="https://www.credly.com/badges/cd75e49a-9255-432d-ae96-07c1065af64f/linked_in_profile"><img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify"></a>
   </td>
   <td align="center" width="33%">
-    <img src="https://github.com/md-ahmed-tanvir/md-ahmed-tanvir/blob/main/output/infosys_springboard_logo.jpg?raw=true" width="40"/><br>
+    <img src="https://raw.githubusercontent.com/md-ahmed-tanvir/md-ahmed-tanvir/main/output/infosys_springboard_logo.jpg" width="40" alt="Infosys Springboard"/><br>
     <b>Python for Data Science</b><br>
     <i>Infosys Springboard</i><br><br>
-    <a href="https://drive.google.com/file/d/1N-4Bi2D-btVhivo0qWU1PWc27KbdPj1k/view">
-      <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
-    </a>
+    <a href="https://drive.google.com/file/d/1N-4Bi2D-btVhivo0qWU1PWc27KbdPj1k/view"><img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify"></a>
   </td>
   <td align="center" width="33%">
-    <img src="https://img.icons8.com/color/48/ibm.png" width="40"/><br>
+    <img src="https://img.icons8.com/color/48/ibm.png" width="40" alt="IBM"/><br>
     <b>Data Analysis with Python</b><br>
     <i>IBM Cognitive Class</i><br><br>
-    <a href="https://courses.cognitiveclass.ai/certificates/43f773023f2640238edeebaec2fc9988">
-      <img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify">
-    </a>
+    <a href="https://courses.cognitiveclass.ai/certificates/43f773023f2640238edeebaec2fc9988"><img src="https://img.shields.io/badge/Verify-1e3a8a?style=for-the-badge" alt="Verify"></a>
   </td>
 </tr>
 
 </table>
 
-*Note: All certificates are uploaded in the GitHub [Certificates](https://github.com/md-ahmed-tanvir/Certificates) folder.*
+<p align="center"><i>All certificates are in the <a href="https://github.com/md-ahmed-tanvir/Certificates">Certificates</a> repository.</i></p>
 
 ---
 
 ## 📊 GitHub Analytics
 
+<!-- One single analytics section (the old "Profile Analytics" + "GitHub Analytics" were duplicates) -->
+
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
-  <img
-    src="https://img.shields.io/github/followers/md-ahmed-tanvir?label=Followers&style=flat"
-    alt="Followers"
-  />
+  <img src="https://komarev.com/ghpvc/?username=md-ahmed-tanvir&label=Profile+Views&style=for-the-badge&color=4B5EAA" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/md-ahmed-tanvir?label=Followers&style=for-the-badge&color=4B5EAA" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/md-ahmed-tanvir?label=Stars&style=for-the-badge&color=4B5EAA" alt="Stars"/>
 </p>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-stats-extended.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"
-        alt="GitHub Stats"
-        width="100%"
-      />
-    </td>
-    <td width="50%" align="center">
-      <img
-        src="https://github-readme-streak-stats-eight.vercel.app/?user=md-ahmed-tanvir&theme=tokyonight&hide_border=true"
-        alt="GitHub Streak"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+<!-- Stats + Streak: no <table> (removes the grey borders), same height + same background so both cards line up -->
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=md-ahmed-tanvir&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  &nbsp;
+  <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=md-ahmed-tanvir&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 <h3 align="center">📈 Contribution Activity</h3>
 
 <p align="center">
-  <img
-    src="https://fabianocouto-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&theme=tokyo-night&hide_border=true&area=true&height=220"
-    alt="Contribution Activity"
-    width="100%"
-  />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=md-ahmed-tanvir&theme=tokyo-night&hide_border=true&area=true&height=220" alt="Contribution Activity" width="100%"/>
 </p>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-ahmed-tanvir&theme=tokyonight"
-        alt="Languages by Repository"
-        width="100%"
-      />
-    </td>
-    <td width="50%" align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=md-ahmed-tanvir&theme=tokyonight"
-        alt="Languages by Commit"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+<h3 align="center">🧠 Top Languages</h3>
+
+<!-- Same height on both cards, no <table>, so no outer border box -->
+<p align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-ahmed-tanvir&theme=tokyonight" alt="Languages by Repository"/>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=md-ahmed-tanvir&theme=tokyonight" alt="Languages by Commit"/>
+</p>
 
 <h3 align="center">⭐ Profile Summary</h3>
 
@@ -489,7 +374,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-tanvir-ahmed-dev/">
-    <img src="https://raw.githubusercontent.com/md-ahmed-tanvir/md-ahmed-tanvir/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
+    <img src="https://raw.githubusercontent.com/md-ahmed-tanvir/md-ahmed-tanvir/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation"/>
   </a>
 </p>
 
@@ -505,6 +390,6 @@
 
 <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=2500&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+repos!;Lets+build+AI+together!" alt="Typing SVG"/></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:003d5c,50:0a1f35,100:050a0f&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:003d5c,50:0a1f35,100:050a0f&section=footer" alt="Footer"/>
 
 </div>
