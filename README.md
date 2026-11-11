@@ -39,7 +39,7 @@
 <img height="45" src="https://img.shields.io/badge/🌐%20Portfolio-Website-1E90FF?style=for-the-badge&logo=githubpages"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.credly.com/users/md-tanvir-ahmed">
+<a href="https://www.credly.com/users/md-ahmed-tanvir">
 <img height="45" src="https://img.shields.io/badge/🏅%20Badge%20Wallet-Credly-orange?style=for-the-badge&logo=credly"/>
 </a>
 
